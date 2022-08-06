@@ -1,0 +1,2055 @@
+LOCUS       Exported               15611 bp ds-DNA     circular SYN 14-JAN-2022
+DEFINITION  synthetic circular DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 15611)
+  AUTHORS   lb
+  TITLE     Direct Submission
+  JOURNAL   Exported Thursday, Jun 9, 2022 from SnapGene 5.2.0
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..15611
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     CDS             complement(108..968)
+                     /codon_start=1
+                     /gene="bla"
+                     /product="beta-lactamase"
+                     /label=AmpR
+                     /note="confers resistance to ampicillin, carbenicillin, and
+                     related antibiotics"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+     misc_feature    252
+                     /label=BsaI mutation
+     promoter        complement(969..1073)
+                     /gene="bla"
+                     /label=AmpR promoter
+     misc_feature    1078..1163
+                     /label=cloning region
+     misc_feature    1171..1483
+                     /label=mini-7 8 (5' TR)
+                     /label=mini-7 8
+     misc_feature    1171..1210
+                     /label=micro-7 8  KpnI end
+                     /label=micro-7 8  KpnI end
+     misc_feature    1171..1183
+                     /label=13 bp repeat
+     misc_feature    1490..1497
+                     /label=important?
+     misc_feature    1531..1842
+                     /label=mU6 TATAlox
+     misc_feature    1612..1619
+                     /label=Oct
+     misc_feature    1774..1793
+                     /label=PSE
+     misc_feature    1797..1830
+                     /label=Lox71 TATA
+     misc_feature    1797..1801
+                     /label=mutation
+     misc_feature    1810..1817
+                     /label=Spacer
+     misc_feature    1811..1816
+                     /label=TATA
+     misc_feature    1842
+                     /label=+G
+     misc_feature    1843..1862
+                     /label=Cd47-1
+     misc_feature    1863..1948
+                     /label=scaffold
+     3'UTR           1863..1948
+                     /label=Qi gRNA scaffold
+     misc_feature    1863..1902
+                     /label=Hairpin
+     misc_feature    1934..1948
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    1949..1955
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    1949..1955
+                     /label=terminator
+     misc_feature    1957
+                     /label=L3
+     misc_feature    1965..2011
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    1966..1999
+                     /label=TC9
+     misc_feature    2011
+                     /label=+G
+     misc_feature    2012..2031
+                     /label=Trp53-1
+     3'UTR           2032..2117
+                     /label=Qi gRNA scaffold
+     misc_feature    2032..2117
+                     /label=scaffold
+     misc_feature    2032..2071
+                     /label=Hairpin
+     misc_feature    2103..2117
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2118..2124
+                     /label=terminator
+     misc_feature    2118..2124
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2130..2176
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2131..2164
+                     /label=TC9
+     misc_feature    2176
+                     /label=+G
+     misc_feature    2177..2196
+                     /label=Cd19-1
+     3'UTR           2197..2282
+                     /label=Qi gRNA scaffold
+     misc_feature    2197..2282
+                     /label=scaffold
+     misc_feature    2197..2236
+                     /label=Hairpin
+     misc_feature    2268..2282
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2283..2289
+                     /label=terminator
+     misc_feature    2283..2289
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2295..2341
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2296..2329
+                     /label=TC9
+     misc_feature    2341
+                     /label=+G
+     misc_feature    2342..2361
+                     /label=Kpnb1-1
+     3'UTR           2362..2447
+                     /label=Qi gRNA scaffold
+     misc_feature    2362..2447
+                     /label=scaffold
+     misc_feature    2362..2401
+                     /label=Hairpin
+     misc_feature    2433..2447
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2448..2454
+                     /label=terminator
+     misc_feature    2448..2454
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2460..2506
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2461..2494
+                     /label=TC9
+     misc_feature    2506
+                     /label=+G
+     misc_feature    2507..2526
+                     /label=Polr2a-1
+     misc_feature    2527..2612
+                     /label=scaffold
+     3'UTR           2527..2612
+                     /label=Qi gRNA scaffold
+     misc_feature    2527..2566
+                     /label=Hairpin
+     misc_feature    2598..2612
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2613..2619
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2613..2619
+                     /label=terminator
+     misc_feature    2625..2671
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2626..2659
+                     /label=TC9
+     misc_feature    2671
+                     /label=+G
+     misc_feature    2672..2691
+                     /label=Pten-1
+     3'UTR           2692..2777
+                     /label=Qi gRNA scaffold
+     misc_feature    2692..2777
+                     /label=scaffold
+     misc_feature    2692..2731
+                     /label=Hairpin
+     misc_feature    2763..2777
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2778..2784
+                     /label=terminator
+     misc_feature    2778..2784
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2790..2836
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2791..2824
+                     /label=TC9
+     misc_feature    2836
+                     /label=+G
+     misc_feature    2837..2856
+                     /label=Cd45-1
+     misc_feature    2857..2942
+                     /label=scaffold
+     3'UTR           2857..2942
+                     /label=Qi gRNA scaffold
+     misc_feature    2857..2896
+                     /label=Hairpin
+     misc_feature    2928..2942
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    2943..2949
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    2943..2949
+                     /label=terminator
+     misc_feature    2954..3000
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    2955..2988
+                     /label=TC9
+     misc_feature    3000
+                     /label=+G
+     misc_feature    3001..3020
+                     /label=Trp53-2
+     misc_feature    3021..3106
+                     /label=scaffold
+     3'UTR           3021..3106
+                     /label=Qi gRNA scaffold
+     misc_feature    3021..3060
+                     /label=Hairpin
+     misc_feature    3092..3106
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3107..3113
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3107..3113
+                     /label=terminator
+     misc_feature    3119..3165
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3120..3153
+                     /label=TC9
+     misc_feature    3165
+                     /label=+G
+     misc_feature    3166..3185
+                     /label=Cd19-2
+     misc_feature    3186..3271
+                     /label=scaffold
+     3'UTR           3186..3271
+                     /label=Qi gRNA scaffold
+     misc_feature    3186..3225
+                     /label=Hairpin
+     misc_feature    3257..3271
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3272..3278
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3272..3278
+                     /label=terminator
+     misc_feature    3284..3330
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3285..3318
+                     /label=TC9
+     misc_feature    3330
+                     /label=+G
+     misc_feature    3331..3350
+                     /label=Kpnb1-2
+     misc_feature    3351..3436
+                     /label=scaffold
+     3'UTR           3351..3436
+                     /label=Qi gRNA scaffold
+     misc_feature    3351..3390
+                     /label=Hairpin
+     misc_feature    3422..3436
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3437..3443
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3437..3443
+                     /label=terminator
+     misc_feature    3449..3495
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3450..3483
+                     /label=TC9
+     misc_feature    3495
+                     /label=+G
+     misc_feature    3496..3515
+                     /label=Polr2a-2
+     misc_feature    3516..3601
+                     /label=scaffold
+     3'UTR           3516..3601
+                     /label=Qi gRNA scaffold
+     misc_feature    3516..3555
+                     /label=Hairpin
+     misc_feature    3587..3601
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3602..3608
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3602..3608
+                     /label=terminator
+     misc_feature    3614..3660
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3615..3648
+                     /label=TC9
+     misc_feature    3660
+                     /label=+G
+     misc_feature    3661..3680
+                     /label=Pten-2
+     3'UTR           3681..3766
+                     /label=Qi gRNA scaffold
+     misc_feature    3681..3766
+                     /label=scaffold
+     misc_feature    3681..3720
+                     /label=Hairpin
+     misc_feature    3752..3766
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3767..3773
+                     /label=terminator
+     misc_feature    3767..3773
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3779..3825
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3780..3813
+                     /label=TC9
+     misc_feature    3825
+                     /label=+G
+     misc_feature    3826..3845
+                     /label=Cd45-2
+     misc_feature    3846..3931
+                     /label=scaffold
+     3'UTR           3846..3931
+                     /label=Qi gRNA scaffold
+     misc_feature    3846..3885
+                     /label=Hairpin
+     misc_feature    3917..3931
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    3932..3938
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    3932..3938
+                     /label=terminator
+     misc_feature    3943..3989
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    3944..3977
+                     /label=TC9
+     misc_feature    3989
+                     /label=+G
+     misc_feature    3990..4009
+                     /label=Trp53-3
+     3'UTR           4010..4095
+                     /label=Qi gRNA scaffold
+     misc_feature    4010..4095
+                     /label=scaffold
+     misc_feature    4010..4049
+                     /label=Hairpin
+     misc_feature    4081..4095
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4096..4102
+                     /label=terminator
+     misc_feature    4096..4102
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4108..4154
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4109..4142
+                     /label=TC9
+     misc_feature    4154
+                     /label=+G
+     misc_feature    4155..4174
+                     /label=Cd19-3
+     misc_feature    4175..4260
+                     /label=scaffold
+     3'UTR           4175..4260
+                     /label=Qi gRNA scaffold
+     misc_feature    4175..4214
+                     /label=Hairpin
+     misc_feature    4246..4260
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4261..4267
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4261..4267
+                     /label=terminator
+     misc_feature    4273..4319
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4274..4307
+                     /label=TC9
+     misc_feature    4319
+                     /label=+G
+     misc_feature    4320..4339
+                     /label=Kpnb1-3
+     3'UTR           4340..4425
+                     /label=Qi gRNA scaffold
+     misc_feature    4340..4425
+                     /label=scaffold
+     misc_feature    4340..4379
+                     /label=Hairpin
+     misc_feature    4411..4425
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4426..4432
+                     /label=terminator
+     misc_feature    4426..4432
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4438..4484
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4439..4472
+                     /label=TC9
+     misc_feature    4484
+                     /label=+G
+     misc_feature    4485..4504
+                     /label=Polr2a-3
+     3'UTR           4505..4590
+                     /label=Qi gRNA scaffold
+     misc_feature    4505..4590
+                     /label=scaffold
+     misc_feature    4505..4544
+                     /label=Hairpin
+     misc_feature    4576..4590
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4591..4597
+                     /label=terminator
+     misc_feature    4591..4597
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4603..4649
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4604..4637
+                     /label=TC9
+     misc_feature    4649
+                     /label=+G
+     misc_feature    4650..4669
+                     /label=Pten-3
+     misc_feature    4670..4755
+                     /label=scaffold
+     3'UTR           4670..4755
+                     /label=Qi gRNA scaffold
+     misc_feature    4670..4709
+                     /label=Hairpin
+     misc_feature    4741..4755
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4756..4762
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4756..4762
+                     /label=terminator
+     misc_feature    4768..4814
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4769..4802
+                     /label=TC9
+     misc_feature    4814
+                     /label=+G
+     misc_feature    4815..4834
+                     /label=Cd45-3
+     3'UTR           4835..4920
+                     /label=Qi gRNA scaffold
+     misc_feature    4835..4920
+                     /label=scaffold
+     misc_feature    4835..4874
+                     /label=Hairpin
+     misc_feature    4906..4920
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    4921..4927
+                     /label=terminator
+     misc_feature    4921..4927
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    4932..4978
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    4933..4966
+                     /label=TC9
+     misc_feature    4978
+                     /label=+G
+     misc_feature    4979..4998
+                     /label=Trp53-4
+     3'UTR           4999..5084
+                     /label=Qi gRNA scaffold
+     misc_feature    4999..5084
+                     /label=scaffold
+     misc_feature    4999..5038
+                     /label=Hairpin
+     misc_feature    5070..5084
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5085..5091
+                     /label=terminator
+     misc_feature    5085..5091
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5097..5143
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5098..5131
+                     /label=TC9
+     misc_feature    5143
+                     /label=+G
+     misc_feature    5144..5163
+                     /label=Cd19-4
+     misc_feature    5164..5249
+                     /label=scaffold
+     3'UTR           5164..5249
+                     /label=Qi gRNA scaffold
+     misc_feature    5164..5203
+                     /label=Hairpin
+     misc_feature    5235..5249
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5250..5256
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5250..5256
+                     /label=terminator
+     misc_feature    5262..5308
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5263..5296
+                     /label=TC9
+     misc_feature    5308
+                     /label=+G
+     misc_feature    5309..5328
+                     /label=Kpnb1-4
+     3'UTR           5329..5414
+                     /label=Qi gRNA scaffold
+     misc_feature    5329..5414
+                     /label=scaffold
+     misc_feature    5329..5368
+                     /label=Hairpin
+     misc_feature    5400..5414
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5415..5421
+                     /label=terminator
+     misc_feature    5415..5421
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5427..5473
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5428..5461
+                     /label=TC9
+     misc_feature    5473
+                     /label=+G
+     misc_feature    5474..5493
+                     /label=Polr2a-4
+     misc_feature    5494..5579
+                     /label=scaffold
+     3'UTR           5494..5579
+                     /label=Qi gRNA scaffold
+     misc_feature    5494..5533
+                     /label=Hairpin
+     misc_feature    5565..5579
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5580..5586
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5580..5586
+                     /label=terminator
+     misc_feature    5592..5638
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5593..5626
+                     /label=TC9
+     misc_feature    5638
+                     /label=+G
+     misc_feature    5639..5658
+                     /label=Pten-4
+     misc_feature    5659..5744
+                     /label=scaffold
+     3'UTR           5659..5744
+                     /label=Qi gRNA scaffold
+     misc_feature    5659..5698
+                     /label=Hairpin
+     misc_feature    5730..5744
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5745..5751
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5745..5751
+                     /label=terminator
+     misc_feature    5757..5803
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5758..5791
+                     /label=TC9
+     misc_feature    5803
+                     /label=+G
+     misc_feature    5804..5823
+                     /label=Cd45-4
+     misc_feature    5824..5909
+                     /label=scaffold
+     3'UTR           5824..5909
+                     /label=Qi gRNA scaffold
+     misc_feature    5824..5863
+                     /label=Hairpin
+     misc_feature    5895..5909
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    5910..5916
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    5910..5916
+                     /label=terminator
+     misc_feature    5921..5967
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    5922..5955
+                     /label=TC9
+     misc_feature    5967
+                     /label=+G
+     misc_feature    5968..5987
+                     /label=Trp53-5
+     3'UTR           5988..6073
+                     /label=Qi gRNA scaffold
+     misc_feature    5988..6073
+                     /label=scaffold
+     misc_feature    5988..6027
+                     /label=Hairpin
+     misc_feature    6059..6073
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6074..6080
+                     /label=terminator
+     misc_feature    6074..6080
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6086..6132
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6087..6120
+                     /label=TC9
+     misc_feature    6132
+                     /label=+G
+     misc_feature    6133..6152
+                     /label=Cd19-5
+     3'UTR           6153..6238
+                     /label=Qi gRNA scaffold
+     misc_feature    6153..6238
+                     /label=scaffold
+     misc_feature    6153..6192
+                     /label=Hairpin
+     misc_feature    6224..6238
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6239..6245
+                     /label=terminator
+     misc_feature    6239..6245
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6251..6297
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6252..6285
+                     /label=TC9
+     misc_feature    6297
+                     /label=+G
+     misc_feature    6298..6317
+                     /label=Kpnb1-5
+     3'UTR           6318..6403
+                     /label=Qi gRNA scaffold
+     misc_feature    6318..6403
+                     /label=scaffold
+     misc_feature    6318..6357
+                     /label=Hairpin
+     misc_feature    6389..6403
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6404..6410
+                     /label=terminator
+     misc_feature    6404..6410
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6416..6462
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6417..6450
+                     /label=TC9
+     misc_feature    6462
+                     /label=+G
+     misc_feature    6463..6482
+                     /label=Polr2a-5
+     3'UTR           6483..6568
+                     /label=Qi gRNA scaffold
+     misc_feature    6483..6568
+                     /label=scaffold
+     misc_feature    6483..6522
+                     /label=Hairpin
+     misc_feature    6554..6568
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6569..6575
+                     /label=terminator
+     misc_feature    6569..6575
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6581..6627
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6582..6615
+                     /label=TC9
+     misc_feature    6627
+                     /label=+G
+     misc_feature    6628..6647
+                     /label=Pten-5
+     3'UTR           6648..6733
+                     /label=Qi gRNA scaffold
+     misc_feature    6648..6733
+                     /label=scaffold
+     misc_feature    6648..6687
+                     /label=Hairpin
+     misc_feature    6719..6733
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6734..6740
+                     /label=terminator
+     misc_feature    6734..6740
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6746..6792
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6747..6780
+                     /label=TC9
+     misc_feature    6792
+                     /label=+G
+     misc_feature    6793..6812
+                     /label=Cd45-5
+     3'UTR           6813..6898
+                     /label=Qi gRNA scaffold
+     misc_feature    6813..6898
+                     /label=scaffold
+     misc_feature    6813..6852
+                     /label=Hairpin
+     misc_feature    6884..6898
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    6899..6905
+                     /label=terminator
+     misc_feature    6899..6905
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    6910..6956
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    6911..6944
+                     /label=TC9
+     misc_feature    6956
+                     /label=+G
+     misc_feature    6957..6976
+                     /label=Trp53-6
+     misc_feature    6977..7062
+                     /label=scaffold
+     3'UTR           6977..7062
+                     /label=Qi gRNA scaffold
+     misc_feature    6977..7016
+                     /label=Hairpin
+     misc_feature    7048..7062
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7063..7069
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7063..7069
+                     /label=terminator
+     misc_feature    7075..7121
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7076..7109
+                     /label=TC9
+     misc_feature    7121
+                     /label=+G
+     misc_feature    7122..7141
+                     /label=Cd19-6
+     misc_feature    7142..7227
+                     /label=scaffold
+     3'UTR           7142..7227
+                     /label=Qi gRNA scaffold
+     misc_feature    7142..7181
+                     /label=Hairpin
+     misc_feature    7213..7227
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7228..7234
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7228..7234
+                     /label=terminator
+     misc_feature    7240..7286
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7241..7274
+                     /label=TC9
+     misc_feature    7286
+                     /label=+G
+     misc_feature    7287..7306
+                     /label=Kpnb1-6
+     misc_feature    7307..7392
+                     /label=scaffold
+     3'UTR           7307..7392
+                     /label=Qi gRNA scaffold
+     misc_feature    7307..7346
+                     /label=Hairpin
+     misc_feature    7378..7392
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7393..7399
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7393..7399
+                     /label=terminator
+     misc_feature    7405..7451
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7406..7439
+                     /label=TC9
+     misc_feature    7451
+                     /label=+G
+     misc_feature    7452..7471
+                     /label=Polr2a-6
+     3'UTR           7472..7557
+                     /label=Qi gRNA scaffold
+     misc_feature    7472..7557
+                     /label=scaffold
+     misc_feature    7472..7511
+                     /label=Hairpin
+     misc_feature    7543..7557
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7558..7564
+                     /label=terminator
+     misc_feature    7558..7564
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7570..7616
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7571..7604
+                     /label=TC9
+     misc_feature    7616
+                     /label=+G
+     misc_feature    7617..7636
+                     /label=Pten-6
+     3'UTR           7637..7722
+                     /label=Qi gRNA scaffold
+     misc_feature    7637..7722
+                     /label=scaffold
+     misc_feature    7637..7676
+                     /label=Hairpin
+     misc_feature    7708..7722
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7723..7729
+                     /label=terminator
+     misc_feature    7723..7729
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7735..7781
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7736..7769
+                     /label=TC9
+     misc_feature    7781
+                     /label=+G
+     misc_feature    7782..7801
+                     /label=Cd45-6
+     misc_feature    7802..7887
+                     /label=scaffold
+     3'UTR           7802..7887
+                     /label=Qi gRNA scaffold
+     misc_feature    7802..7841
+                     /label=Hairpin
+     misc_feature    7873..7887
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    7888..7894
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    7888..7894
+                     /label=terminator
+     misc_feature    7899..7945
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    7900..7933
+                     /label=TC9
+     misc_feature    7945
+                     /label=+G
+     misc_feature    7946..7965
+                     /label=Trp53-7
+     3'UTR           7966..8051
+                     /label=Qi gRNA scaffold
+     misc_feature    7966..8051
+                     /label=scaffold
+     misc_feature    7966..8005
+                     /label=Hairpin
+     misc_feature    8037..8051
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8052..8058
+                     /label=terminator
+     misc_feature    8052..8058
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8064..8110
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8065..8098
+                     /label=TC9
+     misc_feature    8110
+                     /label=+G
+     misc_feature    8111..8130
+                     /label=Cd19-7
+     3'UTR           8131..8216
+                     /label=Qi gRNA scaffold
+     misc_feature    8131..8216
+                     /label=scaffold
+     misc_feature    8131..8170
+                     /label=Hairpin
+     misc_feature    8202..8216
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8217..8223
+                     /label=terminator
+     misc_feature    8217..8223
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8229..8275
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8230..8263
+                     /label=TC9
+     misc_feature    8275
+                     /label=+G
+     misc_feature    8276..8295
+                     /label=Kpnb1-7
+     3'UTR           8296..8381
+                     /label=Qi gRNA scaffold
+     misc_feature    8296..8381
+                     /label=scaffold
+     misc_feature    8296..8335
+                     /label=Hairpin
+     misc_feature    8367..8381
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8382..8388
+                     /label=terminator
+     misc_feature    8382..8388
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8394..8440
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8395..8428
+                     /label=TC9
+     misc_feature    8440
+                     /label=+G
+     misc_feature    8441..8460
+                     /label=Polr2a-7
+     3'UTR           8461..8546
+                     /label=Qi gRNA scaffold
+     misc_feature    8461..8546
+                     /label=scaffold
+     misc_feature    8461..8500
+                     /label=Hairpin
+     misc_feature    8532..8546
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8547..8553
+                     /label=terminator
+     misc_feature    8547..8553
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8559..8605
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8560..8593
+                     /label=TC9
+     misc_feature    8605
+                     /label=+G
+     misc_feature    8606..8625
+                     /label=Pten-7
+     3'UTR           8626..8711
+                     /label=Qi gRNA scaffold
+     misc_feature    8626..8711
+                     /label=scaffold
+     misc_feature    8626..8665
+                     /label=Hairpin
+     misc_feature    8697..8711
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8712..8718
+                     /label=terminator
+     misc_feature    8712..8718
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8724..8770
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8725..8758
+                     /label=TC9
+     misc_feature    8770
+                     /label=+G
+     misc_feature    8771..8790
+                     /label=Cd45-7
+     misc_feature    8791..8876
+                     /label=scaffold
+     3'UTR           8791..8876
+                     /label=Qi gRNA scaffold
+     misc_feature    8791..8830
+                     /label=Hairpin
+     misc_feature    8862..8876
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    8877..8883
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    8877..8883
+                     /label=terminator
+     misc_feature    8888..8934
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    8889..8922
+                     /label=TC9
+     misc_feature    8934
+                     /label=+G
+     misc_feature    8935..8954
+                     /label=Trp53-8
+     misc_feature    8955..9040
+                     /label=scaffold
+     3'UTR           8955..9040
+                     /label=Qi gRNA scaffold
+     misc_feature    8955..8994
+                     /label=Hairpin
+     misc_feature    9026..9040
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9041..9047
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9041..9047
+                     /label=terminator
+     misc_feature    9053..9099
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9054..9087
+                     /label=TC9
+     misc_feature    9099
+                     /label=+G
+     misc_feature    9100..9119
+                     /label=Cd19-8
+     misc_feature    9120..9205
+                     /label=scaffold
+     3'UTR           9120..9205
+                     /label=Qi gRNA scaffold
+     misc_feature    9120..9159
+                     /label=Hairpin
+     misc_feature    9191..9205
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9206..9212
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9206..9212
+                     /label=terminator
+     misc_feature    9218..9264
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9219..9252
+                     /label=TC9
+     misc_feature    9264
+                     /label=+G
+     misc_feature    9265..9284
+                     /label=Kpnb1-8
+     3'UTR           9285..9370
+                     /label=Qi gRNA scaffold
+     misc_feature    9285..9370
+                     /label=scaffold
+     misc_feature    9285..9324
+                     /label=Hairpin
+     misc_feature    9356..9370
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9371..9377
+                     /label=terminator
+     misc_feature    9371..9377
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9383..9429
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9384..9417
+                     /label=TC9
+     misc_feature    9429
+                     /label=+G
+     misc_feature    9430..9449
+                     /label=Polr2a-8
+     3'UTR           9450..9535
+                     /label=Qi gRNA scaffold
+     misc_feature    9450..9535
+                     /label=scaffold
+     misc_feature    9450..9489
+                     /label=Hairpin
+     misc_feature    9521..9535
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9536..9542
+                     /label=terminator
+     misc_feature    9536..9542
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9548..9594
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9549..9582
+                     /label=TC9
+     misc_feature    9594
+                     /label=+G
+     misc_feature    9595..9614
+                     /label=Pten-8
+     3'UTR           9615..9700
+                     /label=Qi gRNA scaffold
+     misc_feature    9615..9700
+                     /label=scaffold
+     misc_feature    9615..9654
+                     /label=Hairpin
+     misc_feature    9686..9700
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9701..9707
+                     /label=terminator
+     misc_feature    9701..9707
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9713..9759
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9714..9747
+                     /label=TC9
+     misc_feature    9759
+                     /label=+G
+     misc_feature    9760..9779
+                     /label=Cd45-8
+     3'UTR           9780..9865
+                     /label=Qi gRNA scaffold
+     misc_feature    9780..9865
+                     /label=scaffold
+     misc_feature    9780..9819
+                     /label=Hairpin
+     misc_feature    9851..9865
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    9866..9872
+                     /label=terminator
+     misc_feature    9866..9872
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    9877..9923
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    9878..9911
+                     /label=TC9
+     misc_feature    9923
+                     /label=+G
+     misc_feature    9924..9943
+                     /label=Trp53-9
+     3'UTR           9944..10029
+                     /label=Qi gRNA scaffold
+     misc_feature    9944..10029
+                     /label=scaffold
+     misc_feature    9944..9983
+                     /label=Hairpin
+     misc_feature    10015..10029
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10030..10036
+                     /label=terminator
+     misc_feature    10030..10036
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10042..10088
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10043..10076
+                     /label=TC9
+     misc_feature    10088
+                     /label=+G
+     misc_feature    10089..10108
+                     /label=Cd19-9
+     3'UTR           10109..10194
+                     /label=Qi gRNA scaffold
+     misc_feature    10109..10194
+                     /label=scaffold
+     misc_feature    10109..10148
+                     /label=Hairpin
+     misc_feature    10180..10194
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10195..10201
+                     /label=terminator
+     misc_feature    10195..10201
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10207..10253
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10208..10241
+                     /label=TC9
+     misc_feature    10253
+                     /label=+G
+     misc_feature    10254..10273
+                     /label=Kpnb1-9
+     3'UTR           10274..10359
+                     /label=Qi gRNA scaffold
+     misc_feature    10274..10359
+                     /label=scaffold
+     misc_feature    10274..10313
+                     /label=Hairpin
+     misc_feature    10345..10359
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10360..10366
+                     /label=terminator
+     misc_feature    10360..10366
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10372..10418
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10373..10406
+                     /label=TC9
+     misc_feature    10418
+                     /label=+G
+     misc_feature    10419..10438
+                     /label=Polr2a-9
+     3'UTR           10439..10524
+                     /label=Qi gRNA scaffold
+     misc_feature    10439..10524
+                     /label=scaffold
+     misc_feature    10439..10478
+                     /label=Hairpin
+     misc_feature    10510..10524
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10525..10531
+                     /label=terminator
+     misc_feature    10525..10531
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10537..10583
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10538..10571
+                     /label=TC9
+     misc_feature    10583
+                     /label=+G
+     misc_feature    10584..10603
+                     /label=Pten-9
+     misc_feature    10604..10689
+                     /label=scaffold
+     3'UTR           10604..10689
+                     /label=Qi gRNA scaffold
+     misc_feature    10604..10643
+                     /label=Hairpin
+     misc_feature    10675..10689
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10690..10696
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10690..10696
+                     /label=terminator
+     misc_feature    10702..10748
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10703..10736
+                     /label=TC9
+     misc_feature    10748
+                     /label=+G
+     misc_feature    10749..10768
+                     /label=Cd45-9
+     3'UTR           10769..10854
+                     /label=Qi gRNA scaffold
+     misc_feature    10769..10854
+                     /label=scaffold
+     misc_feature    10769..10808
+                     /label=Hairpin
+     misc_feature    10840..10854
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    10855..10861
+                     /label=terminator
+     misc_feature    10855..10861
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    10866..10912
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    10867..10900
+                     /label=TC9
+     misc_feature    10912
+                     /label=+G
+     misc_feature    10913..10932
+                     /label=Trp53-10
+     3'UTR           10933..11018
+                     /label=Qi gRNA scaffold
+     misc_feature    10933..11018
+                     /label=scaffold
+     misc_feature    10933..10972
+                     /label=Hairpin
+     misc_feature    11004..11018
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11019..11025
+                     /label=terminator
+     misc_feature    11019..11025
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11031..11077
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    11032..11065
+                     /label=TC9
+     misc_feature    11077
+                     /label=+G
+     misc_feature    11078..11097
+                     /label=Cd19-10
+     3'UTR           11098..11183
+                     /label=Qi gRNA scaffold
+     misc_feature    11098..11183
+                     /label=scaffold
+     misc_feature    11098..11137
+                     /label=Hairpin
+     misc_feature    11169..11183
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11184..11190
+                     /label=terminator
+     misc_feature    11184..11190
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11196..11242
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    11197..11230
+                     /label=TC9
+     misc_feature    11242
+                     /label=+G
+     misc_feature    11243..11262
+                     /label=Kpnb1-10
+     3'UTR           11263..11348
+                     /label=Qi gRNA scaffold
+     misc_feature    11263..11348
+                     /label=scaffold
+     misc_feature    11263..11302
+                     /label=Hairpin
+     misc_feature    11334..11348
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11349..11355
+                     /label=terminator
+     misc_feature    11349..11355
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11361..11407
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    11362..11395
+                     /label=TC9
+     misc_feature    11407
+                     /label=+G
+     misc_feature    11408..11427
+                     /label=Polr2a-10
+     3'UTR           11428..11513
+                     /label=Qi gRNA scaffold
+     misc_feature    11428..11513
+                     /label=scaffold
+     misc_feature    11428..11467
+                     /label=Hairpin
+     misc_feature    11499..11513
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11514..11520
+                     /label=terminator
+     misc_feature    11514..11520
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11526..11572
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    11527..11560
+                     /label=TC9
+     misc_feature    11572
+                     /label=+G
+     misc_feature    11573..11592
+                     /label=Pten-10
+     misc_feature    11593..11678
+                     /label=scaffold
+     3'UTR           11593..11678
+                     /label=Qi gRNA scaffold
+     misc_feature    11593..11632
+                     /label=Hairpin
+     misc_feature    11664..11678
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11679..11685
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11679..11685
+                     /label=terminator
+     misc_feature    11691..11737
+                     /label=mouse U6 LoxP' promoter
+                     /note="seq according to Roelz and Pahl."
+     misc_feature    11692..11725
+                     /label=TC9
+     misc_feature    11737
+                     /label=+G
+     misc_feature    11738..11757
+                     /label=Cd45-10
+     3'UTR           11758..11843
+                     /label=Qi gRNA scaffold
+     misc_feature    11758..11843
+                     /label=scaffold
+     misc_feature    11758..11797
+                     /label=Hairpin
+     misc_feature    11829..11843
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    11844..11850
+                     /label=terminator
+     misc_feature    11844..11850
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    11860..11893
+                     /label=Lox71 TATA
+     misc_feature    11873..11880
+                     /label=Spacer
+     misc_feature    11874..11879
+                     /label=TATA
+     primer_bind     complement(11894..11899)
+                     /label=M13 rev
+                     /note="common sequencing primer, one of multiple similar 
+                     variants"
+     protein_bind    11907..11923
+                     /label=lac operator
+                     /bound_moiety="lac repressor encoded by lacI"
+                     /note="The lac repressor binds to the lac operator to 
+                     inhibit transcription in E. coli. This inhibition can be 
+                     relieved by adding lactose or 
+                     isopropyl-beta-D-thiogalactopyranoside (IPTG)."
+     promoter        complement(11931..11947)
+                     /label=lac promoter
+                     /note="promoter for the E. coli lac operon"
+     misc_feature    11951..13598
+                     /label=CAG
+     enhancer        11951..12248
+                     /label=CMV enhancer
+                     /note="human cytomegalovirus immediate early enhancer"
+     promoter        12250..12527
+                     /label=chicken beta-actin promoter
+     misc_feature    12501..12506
+                     /label=TATA
+     misc_feature    12528..12622
+                     /label=Exon
+     misc_feature    12528
+                     /label=TSS
+     intron          12529..13546
+                     /label=chimeric intron
+                     /note="chimera between introns from chicken beta-actin and 
+                     rabbit beta-globin"
+     misc_feature    12613..12632
+                     /label=SD
+     misc_feature    12623..13556
+                     /label=Intron
+     misc_feature    13099..13118
+                     /label=SD?
+     misc_feature    13505..13556
+                     /label=globin intron
+     misc_feature    13537..13556
+                     /label=Globin SA
+     misc_feature    13557..13598
+                     /label=globin exon
+     misc_feature    13608..14318
+                     /label=mCherry
+     misc_feature    14326..14521
+                     /label=SV40 polyA signal
+                     /label=SV40\polyA\signal
+                     /note="/ApEinfo_fwdcolor=#ff8080
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+                     /ApEinfo_revcolor=#7eff74
+                     /vntifkey=21"
+     misc_feature    14524
+                     /label=SacI-HindIII core sequence
+                     /note="SacI-HindIII core sequence"
+     misc_feature    14551..14553
+                     /label=SacI-HindIII core sequence
+                     /note="SacI-HindIII core sequence"
+     misc_feature    14551
+                     /label=footprint I
+                     /note="footprint I"
+     misc_feature    complement(14560..14804)
+                     /label=mini-5 6 (3' TR)
+                     /label=mini-5 6
+     misc_feature    14604
+                     /label=added per Bradley
+     misc_feature    14605
+                     /label=extra T in Bradley
+     misc_feature    complement(14738..14804)
+                     /label=micro-5 6 SacI end
+     misc_feature    14754
+                     /label=changed to C per Bradley
+     misc_feature    14792..14804
+                     /label=13 bp repeat
+     misc_feature    14811..14941
+                     /label=cloning region
+     rep_origin      complement(14960..15548)
+                     /direction=LEFT
+                     /label=ori
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of 
+                     replication"
+ORIGIN
+        1 attttggtca tgagattatc aaaaaggatc ttcacctaga tccttttaaa ttaaaaatga
+       61 agttttaaat caatctaaag tatatatgag taaacttggt ctgacagtta ccaatgctta
+      121 atcagtgagg cacctatctc agcgatctgt ctatttcgtt catccatagt tgcctgactc
+      181 cccgtcgtgt agataactac gatacgggag ggcttaccat ctggccccag tgctgcaatg
+      241 ataccgcgag atccacgctc accggctcca gatttatcag caataaacca gccagccgga
+      301 agggccgagc gcagaagtgg tcctgcaact ttatccgcct ccatccagtc tattaattgt
+      361 tgccgggaag ctagagtaag tagttcgcca gttaatagtt tgcgcaacgt tgttgccatt
+      421 gctacaggca tcgtggtgtc acgctcgtcg tttggtatgg cttcattcag ctccggttcc
+      481 caacgatcaa ggcgagttac atgatccccc atgttgtgca aaaaagcggt tagctccttc
+      541 ggtcctccga tcgttgtcag aagtaagttg gccgcagtgt tatcactcat ggttatggca
+      601 gcactgcata attctcttac tgtcatgcca tccgtaagat gcttttctgt gactggtgag
+      661 tactcaacca agtcattctg agaatagtgt atgcggcgac cgagttgctc ttgcccggcg
+      721 tcaatacggg ataataccgc gccacatagc agaactttaa aagtgctcat cattggaaaa
+      781 cgttcttcgg ggcgaaaact ctcaaggatc ttaccgctgt tgagatccag ttcgatgtaa
+      841 cccactcgtg cacccaactg atcttcagca tcttttactt tcaccagcgt ttctgggtga
+      901 gcaaaaacag gaaggcaaaa tgccgcaaaa aagggaataa gggcgacacg gaaatgttga
+      961 atactcatac tcttcctttt tcaatattat tgaagcattt atcagggtta ttgtctcatg
+     1021 agcggataca tatttgaatg tatttagaaa aataaacaaa taggggttcc gcgcacattt
+     1081 ccccgaaaag tgccacctga cgtctaagaa accattatta tcatgacatt aacctataaa
+     1141 aataggcgta tcacgaggcc ctttaggcct ttaaccctag aaagatagtc tgcgtaaaat
+     1201 tgacgcatgc attcttgaaa tattgctctc tctttctaaa tagcgcgaat ccgtcgctgt
+     1261 gcatttagga catctcagtc gccgcttgga gctcccgtga ggcgtgcttg tcaatgcggt
+     1321 aagtgtcact gattttgaac tataacgacc gcgtgagtca aaatgacgca tgattatctt
+     1381 ttacgtgact tttaagattt aactcatacg ataattatat tgttatttca tgttctactt
+     1441 acgtgataac ttattatata tatattttct tgttatagat agcttcgata ccgtcggctc
+     1501 gagaatgcat ctagaggatc cccacaggtc cgacgccgcc atctctaggc ccgcgccggc
+     1561 cccctcgcac agacttgtgg gagaagctcg gctactcccc tgccccggtt aatttgcata
+     1621 taatatttcc tagtaactat agaggcttaa tgtgcgataa aagacagata atctgttctt
+     1681 tttaatacta gctacatttt acatgatagg cttggatttc tataagagat acaaatacta
+     1741 aattattatt ttaaaaaaca gcacaaaagg aaactcaccc taactgtaaa gtaatttacc
+     1801 gttcgtatag tataaattat acgaagttat aagccttgtt tgatcagcct gttcttacga
+     1861 gggtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag tccgttatca
+     1921 acttgaaaaa gtggcaccga gtcggtgctt tttttggatc cagatataac ttcgtatagt
+     1981 ataaattatt gcttcggtaa agccttgttt gatagtggga accttctggg agtttaagag
+     2041 ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa cttgaaaaag
+     2101 tggcaccgag tcggtgcttt ttttgggact ataacttcgt atagtataaa ttattgcttc
+     2161 ggtaaagcct tgtttgaatg tctcagacca tatggggttt aagagctatg ctggaaacag
+     2221 catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt
+     2281 gctttttttg ggactataac ttcgtatagt ataaattatt gcttcggtaa agccttgttt
+     2341 gtgtctcgaa caactacact ggtttaagag ctatgctgga aacagcatag caagtttaaa
+     2401 taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt ttttgggact
+     2461 ataacttcgt atagtataaa ttattgcttc ggtaaagcct tgtttgtgaa atatgatgca
+     2521 actgtggttt aagagctatg ctggaaacag catagcaagt ttaaataagg ctagtccgtt
+     2581 atcaacttga aaaagtggca ccgagtcggt gctttttttg ggactataac ttcgtatagt
+     2641 ataaattatt gcttcggtaa agccttgttt gactattcca atgttcagtg ggtttaagag
+     2701 ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa cttgaaaaag
+     2761 tggcaccgag tcggtgcttt ttttgggact ataacttcgt atagtataaa ttattgcttc
+     2821 ggtaaagcct tgtttgagtg cttgcaaggc ccagaggttt aagagctatg ctggaaacag
+     2881 catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt
+     2941 gctttttttt acgtataact tcgtatagta taaattattg cttcggtaaa gccttgtttg
+     3001 cttaccagga tatcttctgg gtttaagagc tatgctggaa acagcatagc aagtttaaat
+     3061 aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttgggacta
+     3121 taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttgaatca gagtctaatc
+     3181 aaccagttta agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta
+     3241 tcaacttgaa aaagtggcac cgagtcggtg ctttttttgg gactataact tcgtatagta
+     3301 taaattattg cttcggtaaa gccttgtttg ttgttcgaga cacaacagcg gtttaagagc
+     3361 tatgctggaa acagcatagc aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt
+     3421 ggcaccgagt cggtgctttt tttgggacta taacttcgta tagtataaat tattgcttcg
+     3481 gtaaagcctt gtttgtgacc tgcatcccat caaaggttta agagctatgc tggaaacagc
+     3541 atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac cgagtcggtg
+     3601 ctttttttgg gactataact tcgtatagta taaattattg cttcggtaaa gccttgtttg
+     3661 gagtcacaat tcccagtcag gtttaagagc tatgctggaa acagcatagc aagtttaaat
+     3721 aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttgggacta
+     3781 taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttgtaaat gtgcagacag
+     3841 atttggttta agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta
+     3901 tcaacttgaa aaagtggcac cgagtcggtg ctttttttcg aatataactt cgtatagtat
+     3961 aaattattgc ttcggtaaag ccttgtttgg aagggacaaa agatgacagg tttaagagct
+     4021 atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact tgaaaaagtg
+     4081 gcaccgagtc ggtgcttttt ttgggactat aacttcgtat agtataaatt attgcttcgg
+     4141 taaagccttg tttgaatcac tagcaagatg cccagtttaa gagctatgct ggaaacagca
+     4201 tagcaagttt aaataaggct agtccgttat caacttgaaa aagtggcacc gagtcggtgc
+     4261 tttttttggg actataactt cgtatagtat aaattattgc ttcggtaaag ccttgtttgt
+     4321 gtctcgaaca actacactgg tttaagagct atgctggaaa cagcatagca agtttaaata
+     4381 aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt ttgggactat
+     4441 aacttcgtat agtataaatt attgcttcgg taaagccttg tttggattat ggtcctgaga
+     4501 gccggtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct agtccgttat
+     4561 caacttgaaa aagtggcacc gagtcggtgc tttttttggg actataactt cgtatagtat
+     4621 aaattattgc ttcggtaaag ccttgtttga aacaaaagga gatatcaagg tttaagagct
+     4681 atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact tgaaaaagtg
+     4741 gcaccgagtc ggtgcttttt ttgggactat aacttcgtat agtataaatt attgcttcgg
+     4801 taaagccttg tttgaaatgc taagtgtgga aatggtttaa gagctatgct ggaaacagca
+     4861 tagcaagttt aaataaggct agtccgttat caacttgaaa aagtggcacc gagtcggtgc
+     4921 tttttttctc gtataacttc gtatagtata aattattgct tcggtaaagc cttgtttgga
+     4981 cttttcgcca cagcgtgggt ttaagagcta tgctggaaac agcatagcaa gtttaaataa
+     5041 ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt tgggactata
+     5101 acttcgtata gtataaatta ttgcttcggt aaagccttgt ttggaggaaa cctgaccatc
+     5161 gaggtttaag agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc
+     5221 aacttgaaaa agtggcaccg agtcggtgct ttttttggga ctataacttc gtatagtata
+     5281 aattattgct tcggtaaagc cttgtttggc actctggaca gttccacagt ttaagagcta
+     5341 tgctggaaac agcatagcaa gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg
+     5401 caccgagtcg gtgctttttt tgggactata acttcgtata gtataaatta ttgcttcggt
+     5461 aaagccttgt ttggacaggt cgattgctct ggggtttaag agctatgctg gaaacagcat
+     5521 agcaagttta aataaggcta gtccgttatc aacttgaaaa agtggcaccg agtcggtgct
+     5581 ttttttggga ctataacttc gtatagtata aattattgct tcggtaaagc cttgtttgtg
+     5641 tgcatattta ttgcatcggt ttaagagcta tgctggaaac agcatagcaa gtttaaataa
+     5701 ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt tgggactata
+     5761 acttcgtata gtataaatta ttgcttcggt aaagccttgt ttgtgtaatt tgtttgggca
+     5821 cgagtttaag agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc
+     5881 aacttgaaaa agtggcaccg agtcggtgct ttttttttca tataacttcg tatagtataa
+     5941 attattgctt cggtaaagcc ttgtttgcat aaggtaccac cacgctggtt taagagctat
+     6001 gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc
+     6061 accgagtcgg tgcttttttt gggactataa cttcgtatag tataaattat tgcttcggta
+     6121 aagccttgtt tgattcaaac tgctcccccg aggtttaaga gctatgctgg aaacagcata
+     6181 gcaagtttaa ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgctt
+     6241 tttttgggac tataacttcg tatagtataa attattgctt cggtaaagcc ttgtttggta
+     6301 accaatagct tccaatggtt taagagctat gctggaaaca gcatagcaag tttaaataag
+     6361 gctagtccgt tatcaacttg aaaaagtggc accgagtcgg tgcttttttt gggactataa
+     6421 cttcgtatag tataaattat tgcttcggta aagccttgtt tgttcaaccg aaaagtagac
+     6481 cagtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag tccgttatca
+     6541 acttgaaaaa gtggcaccga gtcggtgctt tttttgggac tataacttcg tatagtataa
+     6601 attattgctt cggtaaagcc ttgtttggaa actattccaa tgttcaggtt taagagctat
+     6661 gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc
+     6721 accgagtcgg tgcttttttt gggactataa cttcgtatag tataaattat tgcttcggta
+     6781 aagccttgtt tggaccctcc aagcacaacc atgtttaaga gctatgctgg aaacagcata
+     6841 gcaagtttaa ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgctt
+     6901 tttttaggtt ataacttcgt atagtataaa ttattgcttc ggtaaagcct tgtttgaatt
+     6961 ttcttcttct gtacgggttt aagagctatg ctggaaacag catagcaagt ttaaataagg
+     7021 ctagtccgtt atcaacttga aaaagtggca ccgagtcggt gctttttttg ggactataac
+     7081 ttcgtatagt ataaattatt gcttcggtaa agccttgttt gaagcctgta tgtgcccctc
+     7141 ggtttaagag ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa
+     7201 cttgaaaaag tggcaccgag tcggtgcttt ttttgggact ataacttcgt atagtataaa
+     7261 ttattgcttc ggtaaagcct tgtttgaatg aaaagtgaca ttgatggttt aagagctatg
+     7321 ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca
+     7381 ccgagtcggt gctttttttg ggactataac ttcgtatagt ataaattatt gcttcggtaa
+     7441 agccttgttt gaaataccca gaaacaacgg agtttaagag ctatgctgga aacagcatag
+     7501 caagtttaaa taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt
+     7561 ttttgggact ataacttcgt atagtataaa ttattgcttc ggtaaagcct tgtttgcaag
+     7621 ttccgccact gaacatgttt aagagctatg ctggaaacag catagcaagt ttaaataagg
+     7681 ctagtccgtt atcaacttga aaaagtggca ccgagtcggt gctttttttg ggactataac
+     7741 ttcgtatagt ataaattatt gcttcggtaa agccttgttt gcatacctga aagatgtcag
+     7801 tgtttaagag ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa
+     7861 cttgaaaaag tggcaccgag tcggtgcttt ttttgcagta taacttcgta tagtataaat
+     7921 tattgcttcg gtaaagcctt gtttgaacag atcgtccatg cagtggttta agagctatgc
+     7981 tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac
+     8041 cgagtcggtg ctttttttgg gactataact tcgtatagta taaattattg cttcggtaaa
+     8101 gccttgtttg gcacccggtc agagagatgt gtttaagagc tatgctggaa acagcatagc
+     8161 aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt
+     8221 tttgggacta taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttgccacc
+     8281 ctggtcatta tggaagttta agagctatgc tggaaacagc atagcaagtt taaataaggc
+     8341 tagtccgtta tcaacttgaa aaagtggcac cgagtcggtg ctttttttgg gactataact
+     8401 tcgtatagta taaattattg cttcggtaaa gccttgtttg tgggaccttg ccatcccacg
+     8461 gtttaagagc tatgctggaa acagcatagc aagtttaaat aaggctagtc cgttatcaac
+     8521 ttgaaaaagt ggcaccgagt cggtgctttt tttgggacta taacttcgta tagtataaat
+     8581 tattgcttcg gtaaagcctt gtttgtatac atagcgcctc tgactgttta agagctatgc
+     8641 tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac
+     8701 cgagtcggtg ctttttttgg gactataact tcgtatagta taaattattg cttcggtaaa
+     8761 gccttgtttg gtagcagaaa tcttatatcg gtttaagagc tatgctggaa acagcatagc
+     8821 aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt
+     8881 tttgatatat aacttcgtat agtataaatt attgcttcgg taaagccttg tttgtcccca
+     8941 gcatcttatc cggggtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct
+     9001 agtccgttat caacttgaaa aagtggcacc gagtcggtgc tttttttggg actataactt
+     9061 cgtatagtat aaattattgc ttcggtaaag ccttgtttgt ttagcccaca catacagctg
+     9121 tttaagagct atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact
+     9181 tgaaaaagtg gcaccgagtc ggtgcttttt ttgggactat aacttcgtat agtataaatt
+     9241 attgcttcgg taaagccttg tttgcaggta gacatcgttg atgggtttaa gagctatgct
+     9301 ggaaacagca tagcaagttt aaataaggct agtccgttat caacttgaaa aagtggcacc
+     9361 gagtcggtgc tttttttggg actataactt cgtatagtat aaattattgc ttcggtaaag
+     9421 ccttgtttgt gaagttgtta tattcagagg tttaagagct atgctggaaa cagcatagca
+     9481 agtttaaata aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt
+     9541 ttgggactat aacttcgtat agtataaatt attgcttcgg taaagccttg tttgaattca
+     9601 ctgtaaagct ggaagtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct
+     9661 agtccgttat caacttgaaa aagtggcacc gagtcggtgc tttttttggg actataactt
+     9721 cgtatagtat aaattattgc ttcggtaaag ccttgtttga ccacatgttt gcttcgttgg
+     9781 tttaagagct atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact
+     9841 tgaaaaagtg gcaccgagtc ggtgcttttt tttcgatata acttcgtata gtataaatta
+     9901 ttgcttcggt aaagccttgt ttgagaaggg acaaaagatg acagtttaag agctatgctg
+     9961 gaaacagcat agcaagttta aataaggcta gtccgttatc aacttgaaaa agtggcaccg
+    10021 agtcggtgct ttttttggga ctataacttc gtatagtata aattattgct tcggtaaagc
+    10081 cttgtttgca atgtctcaga ccatatgggt ttaagagcta tgctggaaac agcatagcaa
+    10141 gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt
+    10201 tgggactata acttcgtata gtataaatta ttgcttcggt aaagccttgt ttgcagccgt
+    10261 tccataatga ccagtttaag agctatgctg gaaacagcat agcaagttta aataaggcta
+    10321 gtccgttatc aacttgaaaa agtggcaccg agtcggtgct ttttttggga ctataacttc
+    10381 gtatagtata aattattgct tcggtaaagc cttgtttgca tgtctatgac ctgtgcaagt
+    10441 ttaagagcta tgctggaaac agcatagcaa gtttaaataa ggctagtccg ttatcaactt
+    10501 gaaaaagtgg caccgagtcg gtgctttttt tgggactata acttcgtata gtataaatta
+    10561 ttgcttcggt aaagccttgt ttgttggtca agatcttcac agagtttaag agctatgctg
+    10621 gaaacagcat agcaagttta aataaggcta gtccgttatc aacttgaaaa agtggcaccg
+    10681 agtcggtgct ttttttggga ctataacttc gtatagtata aattattgct tcggtaaagc
+    10741 cttgtttgag aaattgacat tcacctgggt ttaagagcta tgctggaaac agcatagcaa
+    10801 gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt
+    10861 ttggctataa cttcgtatag tataaattat tgcttcggta aagccttgtt tgtctacaga
+    10921 tgactgccat gggtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag
+    10981 tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttgggac tataacttcg
+    11041 tatagtataa attattgctt cggtaaagcc ttgtttgcac gtgcaatccc aggccaggtt
+    11101 taagagctat gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg
+    11161 aaaaagtggc accgagtcgg tgcttttttt gggactataa cttcgtatag tataaattat
+    11221 tgcttcggta aagccttgtt tggacagttc cacaaggaac gtgtttaaga gctatgctgg
+    11281 aaacagcata gcaagtttaa ataaggctag tccgttatca acttgaaaaa gtggcaccga
+    11341 gtcggtgctt tttttgggac tataacttcg tatagtataa attattgctt cggtaaagcc
+    11401 ttgtttgatg ttggcagcaa tggagcggtt taagagctat gctggaaaca gcatagcaag
+    11461 tttaaataag gctagtccgt tatcaacttg aaaaagtggc accgagtcgg tgcttttttt
+    11521 gggactataa cttcgtatag tataaattat tgcttcggta aagccttgtt tgtggtcaag
+    11581 atcttcacag aagtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag
+    11641 tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttgggac tataacttcg
+    11701 tatagtataa attattgctt cggtaaagcc ttgtttgact cttacaccat ccactctgtt
+    11761 taagagctat gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg
+    11821 aaaaagtggc accgagtcgg tgcttttttt aacaagcttt accgttcgta tagtataaat
+    11881 tatacgaagt tatttcctgt gtgaaattgt tatccgctca caattccaca caacatacga
+    11941 gccggaatgc ataacttacg gtaaatggcc cgcctggctg accgcccaac gacccccgcc
+    12001 cattgacgtc aataatgacg tatgttccca tagtaacgcc aatagggact ttccattgac
+    12061 gtcaatgggt ggagtattta cggtaaactg cccacttggc agtacatcaa gtgtatcata
+    12121 tgccaagtac gccccctatt gacgtcaatg acggtaaatg gcccgcctgg cattatgccc
+    12181 agtacatgac cttatgggac tttcctactt ggcagtacat ctacgtatta gtcatcgcta
+    12241 ttaccatggt cgaggtgagc cccacgttct gcttcactct ccccatctcc cccccctccc
+    12301 cacccccaat tttgtattta tttatttttt aattattttg tgcagcgatg ggggcggggg
+    12361 gggggggggg gcgcgcgcca ggcggggcgg ggcggggcga ggggcggggc ggggcgaggc
+    12421 ggagaggtgc ggcggcagcc aatcagagcg gcgcgctccg aaagtttcct tttatggcga
+    12481 ggcggcggcg gcggcggccc tataaaaagc gaagcgcgcg gcgggcgggg agtcgctgcg
+    12541 acgctgcctt cgccccgtgc cccgctccgc cgccgcctcg cgccgcccgc cccggctctg
+    12601 actgaccgcg ttactcccac aggtgagcgg gcgggacggc ccttctcctc cgggctgtaa
+    12661 ttagcgcttg gtttaatgac ggcttgtttc ttttctgtgg ctgcgtgaaa gccttgaggg
+    12721 gctccgggag ggccctttgt gcggggggag cggctcgggg ggtgcgtgcg tgtgtgtgtg
+    12781 cgtggggagc gccgcgtgcg gctccgcgct gcccggcggc tgtgagcgct gcgggcgcgg
+    12841 cgcggggctt tgtgcgctcc gcagtgtgcg cgaggggagc gcggccgggg gcggtgcccc
+    12901 gcggtgcggg gggggctgcg aggggaacaa aggctgcgtg cggggtgtgt gcgtgggggg
+    12961 gtgagcaggg ggtgtgggcg cgtcggtcgg gctgcaaccc cccctgcacc cccctccccg
+    13021 agttgctgag cacggcccgg cttcgggtgc ggggctccgt acggggcgtg gcgcggggct
+    13081 cgccgtgccg ggcggggggt ggcggcaggt gggggtgccg ggcggggcgg ggccgcctcg
+    13141 ggccggggag ggctcggggg aggggcgcgg cggcccccgg agcgccggcg gctgtcgagg
+    13201 cgcggcgagc cgcagccatt gccttttatg gtaatcgtgc gagagggcgc agggacttcc
+    13261 tttgtcccaa atctgtgcgg agccgaaatc tgggaggcgc cgccgcaccc cctctagcgg
+    13321 gcgcggggcg aagcggtgcg gcgccggcag gaaggaaatg ggcggggagg gccttcgtgc
+    13381 gtcgccgcgc cgccgtcccc ttctccctct ccagcctcgg ggctgtccgc ggggggacgg
+    13441 ctgccttcgg gggggacggg gcagggcggg gttcggcttc tggcgtgtga ccggcggctc
+    13501 tagagcctct gctaaccatg ttcatgcctt cttctttttc ctacagctcc tgggcaacgt
+    13561 gctggttatt gtgctgtctc atcattttgg caaagaattg ggccaccatg gtgagcaagg
+    13621 gcgaggagga taacatggcc atcatcaagg agttcatgcg cttcaaggtg cacatggagg
+    13681 gctccgtgaa cggccacgag ttcgagatcg agggcgaggg cgagggccgc ccctacgagg
+    13741 gcacccagac cgccaagctg aaggtgacca agggtggccc cctgcccttc gcctgggaca
+    13801 tcctgtcccc tcagttcatg tacggctcca aggcctacgt gaagcacccc gccgacatcc
+    13861 ccgactactt gaagctgtcc ttccccgagg gcttcaagtg ggagcgcgtg atgaacttcg
+    13921 aggacggcgg cgtggtgacc gtgacccagg actcctccct gcaggacggc gagttcatct
+    13981 acaaggtgaa gctgcgcggc accaacttcc cctccgacgg ccccgtaatg cagaagaaga
+    14041 ccatgggctg ggaggcctcc tccgagcgga tgtaccccga ggacggcgcc ctgaagggcg
+    14101 agatcaagca gaggctgaag ctgaaggacg gcggccacta cgacgctgag gtcaagacca
+    14161 cctacaaggc caagaagccc gtgcagctgc ccggcgccta caacgtcaac atcaagttgg
+    14221 acatcacctc ccacaacgag gactacacca tcgtggaaca gtacgaacgc gccgagggcc
+    14281 gccactccac cggcggcatg gacgagctgt acaagtaacg atgatgatcc agacatgata
+    14341 agatacattg atgagtttgg acaaaccaca actagaatgc agtgaaaaaa atgctttatt
+    14401 tgtgaaattt gtgatgctat tgctttattt gtaaccatta taagctgcaa taaacaagtt
+    14461 aacaacaaca attgcattca ttttatgttt caggttcagg gggaggtgtg ggaggttttt
+    14521 tataccgaat gcatctagag gatcctcgag cccgtcgacc gataaaagtt ttgttacttt
+    14581 atagaagaaa ttttgagttt ttgttttttt ttaataaata aataaacata aataaattgt
+    14641 ttgttgaatt tattattagt atgtaagtgt aaatataata aaacttaata tctattcaaa
+    14701 ttaataaata aacctcgata tacagaccga taaaacacat gcgtcaattt tacgcatgat
+    14761 tatctttaac gtacgtcaca atatgattat ctttctaggg ttaaaggcct tcggtcgttc
+    14821 ggctgcggcg agcggtatca gctcactcaa aggcggtaat acggttatcc acagaatcag
+    14881 gggataacgc aggaaagaac atgtgagcaa aaggccagca aaaggccagg aaccgtaaaa
+    14941 aggccgcgtt gctggcgttt ttccataggc tccgcccccc tgacgagcat cacaaaaatc
+    15001 gacgctcaag tcagaggtgg cgaaacccga caggactata aagataccag gcgtttcccc
+    15061 ctggaagctc cctcgtgcgc tctcctgttc cgaccctgcc gcttaccgga tacctgtccg
+    15121 cctttctccc ttcgggaagc gtggcgcttt ctcatagctc acgctgtagg tatctcagtt
+    15181 cggtgtaggt cgttcgctcc aagctgggct gtgtgcacga accccccgtt cagcccgacc
+    15241 gctgcgcctt atccggtaac tatcgtcttg agtccaaccc ggtaagacac gacttatcgc
+    15301 cactggcagc agccactggt aacaggatta gcagagcgag gtatgtaggc ggtgctacag
+    15361 agttcttgaa gtggtggcct aactacggct acactagaag aacagtattt ggtatctgcg
+    15421 ctctgctgaa gccagttacc ttcggaaaaa gagttggtag ctcttgatcc ggcaaacaaa
+    15481 ccaccgctgg tagcggtggt ttttttgttt gcaagcagca gattacgcgc agaaaaaaag
+    15541 gatctcaaga agatcctttg atcttttcta cggggtctga cgctcagtgg aacgaaaact
+    15601 cacgttaagg g
+//

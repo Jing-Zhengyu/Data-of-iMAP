@@ -1,0 +1,88 @@
+LOCUS       Exported                1859 bp ds-DNA     circular SYN 21-MAR-2022
+DEFINITION  synthetic circular DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 1859)
+  AUTHORS   mao-s
+  TITLE     Direct Submission
+  JOURNAL   Exported Saturday, Aug 6, 2022 from SnapGene 5.2.0
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..1859
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     misc_feature    94..99
+                     /label=bsmbi
+     misc_feature    101..104
+                     /label=linker
+     misc_feature    106..111
+                     /label=BsaI
+     misc_feature    117..122
+                     /label=EcoRV
+     misc_feature    127..132
+                     /label=BsaI
+     misc_feature    134..137
+                     /label=linker
+     misc_feature    139..144
+                     /label=bsmbi
+     CDS             278..717
+                     /codon_start=1
+                     /gene="aph(3')-Ia"
+                     /product="aminoglycoside phosphotransferase"
+                     /label=KanR
+                     /note="confers resistance to kanamycin in bacteria or G418 
+                     (Geneticin(R)) in eukaryotes"
+                     /translation="MSHIQRETSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYGKP
+                     DAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGKTA
+                     FQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFR"
+     CDS             719..1087
+                     /codon_start=1
+                     /gene="aph(3')-Ia"
+                     /product="aminoglycoside phosphotransferase"
+                     /label=KanR
+                     /note="confers resistance to kanamycin in bacteria or G418 
+                     (Geneticin(R)) in eukaryotes"
+                     /translation="AQAQSRMNNGLVDASDFDDERNGWPVEQVWKEMHKLLPFSPDSVV
+                     THGDFSLDNLIFDEGKLIGCIDVGRVGIADRYQDLAILWNCLGEFSPSLQKRLFQKYGI
+                     DNPDMNKLQFHLMLDEFF"
+     rep_origin      1265..1853
+                     /direction=RIGHT
+                     /label=ori
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of 
+                     replication"
+ORIGIN
+        1 agcaacgcgg cctttttacg gttcctggcc ttttgctggc cttttgctca catgttcttt
+       61 cctgcgttat cccctgattc tgtggataac cgtcgtctca aagttgagac catcgagata
+      121 tccaccggtc tcagagatga gacggtcatc accgaaacgc gcgatgcagc tctggcccgt
+      181 gtctcaaaat ctctgatgtt acattgcaca agataaaaat atatcatcat gaacaataaa
+      241 actgtctgct tacataaaca gtaatacaag gggtgttatg agccatattc aacgggaaac
+      301 gtcgaggccg cgattaaatt ccaacatgga tgctgattta tatgggtata aatgggctcg
+      361 cgataatgtc gggcaatcag gtgcgacaat ctatcgcttg tatgggaagc ccgatgcgcc
+      421 agagttgttt ctgaaacatg gcaaaggtag cgttgccaat gatgttacag atgagatggt
+      481 cagactaaac tggctgacgg aatttatgcc tcttccgacc atcaagcatt ttatccgtac
+      541 tcctgatgat gcatggttac tcaccactgc gatccccgga aaaacagcat tccaggtatt
+      601 agaagaatat cctgattcag gtgaaaatat tgttgatgcg ctggcagtgt tcctgcgccg
+      661 gttgcattcg attcctgttt gtaattgtcc ttttaacagc gatcgcgtat ttcgtctggc
+      721 tcaggcgcaa tcacgaatga ataacggttt ggttgatgcg agtgattttg atgacgagcg
+      781 taatggctgg cctgttgaac aagtctggaa agaaatgcat aaacttttgc cattctcacc
+      841 ggattcagtc gtcactcatg gtgatttctc acttgataac cttatttttg acgaggggaa
+      901 attaataggt tgtattgatg ttggacgagt cggaatcgca gaccgatacc aggatcttgc
+      961 catcctatgg aactgcctcg gtgagttttc tccttcatta cagaaacggc tttttcaaaa
+     1021 atatggtatt gataatcctg atatgaataa attgcagttt catttgatgc tcgatgagtt
+     1081 tttctaatca gaattggtta attggttgta acattattca gattgggctt gatttaaaac
+     1141 ttcattttta atttaaaagg atctaggtga agatcctttt tgataatctc atgaccaaaa
+     1201 tcccttaacg tgagttttcg ttccactgag cgtcagaccc cgtagaaaag atcaaaggat
+     1261 cttcttgaga tccttttttt ctgcgcgtaa tctgctgctt gcaaacaaaa aaaccaccgc
+     1321 taccagcggt ggtttgtttg ccggatcaag agctaccaac tctttttccg aaggtaactg
+     1381 gcttcagcag agcgcagata ccaaatactg ttcttctagt gtagccgtag ttaggccacc
+     1441 acttcaagaa ctctgtagca ccgcctacat acctcgctct gctaatcctg ttaccagtgg
+     1501 ctgctgccag tggcgataag tcgtgtctta ccgggttgga ctcaagacga tagttaccgg
+     1561 ataaggcgca gcggtcgggc tgaacggggg gttcgtgcac acagcccagc ttggagcgaa
+     1621 cgacctacac cgaactgaga tacctacagc gtgagctatg agaaagcgcc acgcttcccg
+     1681 aagggagaaa ggcggacagg tatccggtaa gcggcagggt cggaacagga gagcgcacga
+     1741 gggagcttcc agggggaaac gcctggtatc tttatagtcc tgtcgggttt cgccacctct
+     1801 gacttgagcg tcgatttttg tgatgctcgt caggggggcg gagcctatgg aaaaacgcc
+//

@@ -1,8 +1,8 @@
 The raw data and plotting code used in the figures shown in the `iMAP(inducible Mosaic Animal for Perturbation)` paper are deposited here.
 
-
-
+Please feel free to contact me with any questions about the data in github or the iMAP.
+jingzhy@shanghaitech.edu.cn
 
  ---
  # paper
-Toward a Mouse Cell Perturb-Atlas	via Mosaic CRISPR Targeting in the Whole Organism
+Large-scale multiplexed mosaic CRISPR perturbation in the whole organism
