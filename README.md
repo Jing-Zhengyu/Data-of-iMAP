@@ -8,4 +8,3 @@ jingzhy1@shanghaitech.edu.cn
 Large-scale multiplexed mosaic CRISPR perturbation in the whole organism
 https://pubmed.ncbi.nlm.nih.gov/35870449/   
 DOI: 10.1016/j.cell.2022.06.039
->>>>>>> 1a6644e45f7673b9914404d981ca22201dd411e9
