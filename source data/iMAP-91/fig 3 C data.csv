@@ -1,0 +1,43 @@
+gene,organ,median_FC,mouse_index,unique_num,x
+Rpusd4,Eyeball,1.376066457,I53,2936,1
+Rpusd4,Eyeball,0.75528289,I238,2877,1
+Rpusd4,Eyeball,2.069986541,I362,2990,1
+Rpusd4,Eyeball,2.007178107,J109,3163,1
+Rpusd4,Eyeball,1.094474153,J111,3217,1
+Rpusd4,Eyeball,2.262616365,H339,2435,1
+Trdmt1,Cerebellum central part ,1.327385038,I53,2652,2
+Trdmt1,Cerebellum central part,1.460337096,I238,2811,2
+Trdmt1,Cerebellum central part,1.049508144,J109,2924,2
+Trdmt1,Cerebellum central part,1.747403787,I362,2978,2
+Trdmt1,Cerebellum central part,1.125872499,J111,3205,2
+Trdmt1,Cerebellum central part,2.224400871,H339,2424,2
+Trdmt1,Cerebellum flocculus,2.201525054,I53,2654,3
+Trdmt1,Cerebellum flocculus,1.129989095,I238,2813,3
+Trdmt1,Cerebellum flocculus,1.764651307,J109,2926,3
+Trdmt1,Cerebellum flocculus,1.2752443,I362,2980,3
+Trdmt1,Cerebellum flocculus,1.176456162,J111,3207,3
+Trdmt1,Cerebellum flocculus,2.459464817,H339,2426,3
+Snu13,Cerebellum central part,1.415179526,I53,2652,4
+Snu13,Cerebellum central part,1.904869963,I238,2811,4
+Snu13,Cerebellum central part,2.126560138,J109,2924,4
+Snu13,Cerebellum central part,2.400154465,I362,2978,4
+Snu13,Cerebellum central part,1.97075399,J111,3205,4
+Snu13,Cerebellum central part,2.356829939,H339,2424,4
+Snu13,Cerebellum flocculus,1.196006294,I53,2654,5
+Snu13,Cerebellum flocculus,1.559455177,I238,2813,5
+Snu13,Cerebellum flocculus,1.940716578,J109,2926,5
+Snu13,Cerebellum flocculus,1.871590534,I362,2980,5
+Snu13,Cerebellum flocculus,1.718196848,J111,3207,5
+Snu13,Cerebellum flocculus,2.247477174,H339,2426,5
+Trmu,Cerebellum central part,1.277842595,I53,2652,6
+Trmu,Cerebellum central part,1.742488178,I238,2811,6
+Trmu,Cerebellum central part,1.474969588,J109,2924,6
+Trmu,Cerebellum central part,2.020951997,I362,2978,6
+Trmu,Cerebellum central part,1.670385118,J111,3205,6
+Trmu,Cerebellum central part,2.04298717,H339,2424,6
+Trmu,Cerebellum flocculus,1.291698651,I53,2654,7
+Trmu,Cerebellum flocculus,1.353482633,I238,2813,7
+Trmu,Cerebellum flocculus,1.746744271,J109,2926,7
+Trmu,Cerebellum flocculus,1.536703243,I362,2980,7
+Trmu,Cerebellum flocculus,1.405415983,J111,3207,7
+Trmu,Cerebellum flocculus,1.998396215,H339,2426,7

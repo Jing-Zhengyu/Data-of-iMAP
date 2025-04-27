@@ -1,0 +1,1459 @@
+LOCUS       Exported               22122 bp DNA     circular SYN 27-APR-2025
+DEFINITION  synthetic circular DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 22122)
+  AUTHORS   lb
+  TITLE     Direct Submission
+  JOURNAL   Exported Apr 27, 2025 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..22122
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     CDS             complement(42..902)
+                     /codon_start=1
+                     /gene="bla"
+                     /product="beta-lactamase"
+                     /label=AmpR
+                     /note="confers resistance to ampicillin, carbenicillin, and
+                     related antibiotics"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+     promoter        complement(903..1007)
+                     /gene="bla"
+                     /label=AmpR promoter
+     misc_feature    1012..1097
+                     /label=cloning region
+     misc_feature    1105..1417
+                     /label=mini-7 8 (5' TR)
+     misc_feature    1105..1144
+                     /label=micro-7 8  KpnI end
+                     /label=micro-7 8&nbsp;&nbsp;KpnI end
+     misc_feature    1105..1117
+                     /label=13 bp repeat
+     misc_feature    1424..1431
+                     /label=important?
+     misc_feature    1465..1775
+                     /label=mouse U6 LoxP' promoter
+     misc_feature    1546..1553
+                     /label=Oct
+     misc_feature    1708..1727
+                     /label=PSE
+     misc_feature    1731..1764
+                     /label=TATA-Lox71
+     misc_feature    1731..1735
+                     /label=mutation
+     misc_feature    1745..1750
+                     /label=TATA box
+     misc_feature    1776
+                     /label=+1
+     misc_feature    1777..1796
+                     /label=gCD19
+     3'UTR           1797..1882
+                     /label=Qi gRNA scaffold
+     misc_feature    1797..1882
+                     /label=scaffold
+     misc_feature    1797..1836
+                     /label=Hairpin
+     misc_feature    1868..1882
+                     /label=hairpin
+                     /note="Should promote release of stalled Pol III"
+     misc_feature    1883..1889
+                     /label=stop
+     misc_feature    1883..1889
+                     /label=Terminator
+                     /note="CT following T5 in yeast weaken termination, 
+                     followed by A or G good. 9 bp hairpin within 12bp preceding
+                     poly T: promotes Pol III release but does not seem to 
+                     inhibit readthrough
+                     "
+     misc_feature    1909..1939
+                     /label=FRT
+     promoter        1940..2154
+                     /label=H1 promoter
+                     /note="human H1 RNA promoter"
+     regulatory      2170..2179
+                     /label=Kozak sequence
+                     /note="vertebrate consensus sequence for strong initiation 
+                     of translation (Kozak, 1987)"
+                     /regulatory_class="other"
+     CDS             2176..2874
+                     /codon_start=1
+                     /label=mScarlet-I
+                     /translation="MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTA
+                     KLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYYKQSFPEGFKWERVMNFEDGG
+                     AVTVTQDTSLEDGTLIYKVKLRGTNFPPDGPVMQKKTMGWEASTERLYPEDGVLKGDIK
+                     MALRLKDGGRYLADFKTTYKAKKPVQMPGAYNVDRKLDITSHNEDYTVVEQYERSEGRH
+                     STGGMDELYK"
+     misc_feature    2893..3481
+                     /label=WPRE
+                     /note="woodchuck hepatitis virus posttranscriptional 
+                     regulatory element"
+     polyA_signal    3488..3609
+                     /label=SV40 poly(A) signal
+                     /note="SV40 polyadenylation signal"
+     misc_feature    3610..3657
+                     /label=FRT
+     misc_feature    3682..3726
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    3682..3715
+                     /label=TATA-TC9
+     misc_feature    3728..3747
+                     /label=Snu13
+     misc_feature    3748..3833
+                     /label=scaffold
+     3'UTR           3748..3833
+                     /label=Qi gRNA scaffold
+     misc_feature    3845..3889
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    3845..3878
+                     /label=TATA-TC9
+     misc_feature    3891..3910
+                     /label=polr2a
+     misc_feature    3911..3996
+                     /label=scaffold
+     3'UTR           3911..3996
+                     /label=Qi gRNA scaffold
+     misc_feature    4008..4052
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4008..4041
+                     /label=TATA-TC9
+     misc_feature    4054..4073
+                     /label=cd45
+     3'UTR           4074..4159
+                     /label=Qi gRNA scaffold
+     misc_feature    4074..4159
+                     /label=scaffold
+     misc_feature    4171..4216
+                     /label=LoxP-TC9
+     misc_feature    4171..4215
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4171..4204
+                     /label=TATA-TC9
+     misc_feature    4217..4236
+                     /label=Trp53rkb
+     3'UTR           4237..4322
+                     /label=Qi gRNA scaffold
+     misc_feature    4237..4322
+                     /label=scaffold
+     misc_feature    4334..4378
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4334..4367
+                     /label=TATA-TC9
+     misc_feature    4380..4399
+                     /label=Fbl
+     3'UTR           4400..4485
+                     /label=Qi gRNA scaffold
+     misc_feature    4400..4485
+                     /label=scaffold
+     misc_feature    4497..4541
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4497..4530
+                     /label=TATA-TC9
+     misc_feature    4543..4562
+                     /label=Tyw5
+     3'UTR           4563..4648
+                     /label=Qi gRNA scaffold
+     misc_feature    4563..4648
+                     /label=scaffold
+     misc_feature    4660..4704
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4660..4693
+                     /label=TATA-TC9
+     misc_feature    4706..4725
+                     /label=Trmu
+     3'UTR           4726..4811
+                     /label=Qi gRNA scaffold
+     misc_feature    4726..4811
+                     /label=scaffold
+     misc_feature    4823..4867
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4823..4856
+                     /label=TATA-TC9
+     misc_feature    4869..4888
+                     /label=Ftsj1
+     3'UTR           4889..4974
+                     /label=Qi gRNA scaffold
+     misc_feature    4889..4974
+                     /label=scaffold
+     misc_feature    4986..5030
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    4986..5019
+                     /label=TATA-TC9
+     misc_feature    5032..5051
+                     /label=Mrm1
+     3'UTR           5052..5137
+                     /label=Qi gRNA scaffold
+     misc_feature    5052..5137
+                     /label=scaffold
+     misc_feature    5149..5193
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5149..5182
+                     /label=TATA-TC9
+     misc_feature    5195..5214
+                     /label=NC1
+     3'UTR           5215..5300
+                     /label=Qi gRNA scaffold
+     misc_feature    5215..5300
+                     /label=scaffold
+     misc_feature    5312..5356
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5312..5345
+                     /label=TATA-TC9
+     misc_feature    5358..5377
+                     /label=Cmtr2
+     3'UTR           5378..5463
+                     /label=Qi gRNA scaffold
+     misc_feature    5378..5463
+                     /label=scaffold
+     misc_feature    5475..5519
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5475..5508
+                     /label=TATA-TC9
+     misc_feature    5521..5540
+                     /label=Ythdf1-1
+     3'UTR           5541..5626
+                     /label=Qi gRNA scaffold
+     misc_feature    5541..5626
+                     /label=scaffold
+     misc_feature    5638..5682
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5638..5671
+                     /label=TATA-TC9
+     misc_feature    5684..5703
+                     /label=Fto-2
+     3'UTR           5704..5789
+                     /label=Qi gRNA scaffold
+     misc_feature    5704..5789
+                     /label=scaffold
+     misc_feature    5801..5845
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5801..5834
+                     /label=TATA-TC9
+     misc_feature    5847..5866
+                     /label=Lage3
+     3'UTR           5867..5952
+                     /label=Qi gRNA scaffold
+     misc_feature    5867..5952
+                     /label=scaffold
+     misc_feature    5964..6008
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    5964..5997
+                     /label=TATA-TC9
+     misc_feature    6010..6029
+                     /label=Alkbh3-3
+     3'UTR           6030..6115
+                     /label=Qi gRNA scaffold
+     misc_feature    6030..6115
+                     /label=scaffold
+     misc_feature    6127..6171
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6127..6160
+                     /label=TATA-TC9
+     misc_feature    6173..6192
+                     /label=Adat2
+     3'UTR           6193..6278
+                     /label=Qi gRNA scaffold
+     misc_feature    6193..6278
+                     /label=scaffold
+     misc_feature    6290..6334
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6290..6323
+                     /label=TATA-TC9
+     misc_feature    6336..6355
+                     /label=Osgep
+     3'UTR           6356..6441
+                     /label=Qi gRNA scaffold
+     misc_feature    6356..6441
+                     /label=scaffold
+     misc_feature    6453..6497
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6453..6486
+                     /label=TATA-TC9
+     misc_feature    6499..6518
+                     /label=Pus10
+     3'UTR           6519..6604
+                     /label=Qi gRNA scaffold
+     misc_feature    6519..6604
+                     /label=scaffold
+     misc_feature    6616..6660
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6616..6649
+                     /label=TATA-TC9
+     misc_feature    6662..6681
+                     /label=Nsun2
+     misc_feature    6682..6767
+                     /label=scaffold
+     3'UTR           6682..6767
+                     /label=Qi gRNA scaffold
+     misc_feature    6779..6823
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6779..6812
+                     /label=TATA-TC9
+     misc_feature    6825..6844
+                     /label=NC2
+     3'UTR           6845..6930
+                     /label=Qi gRNA scaffold
+     misc_feature    6845..6930
+                     /label=scaffold
+     misc_feature    6942..6986
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    6942..6975
+                     /label=TATA-TC9
+     misc_feature    6988..7007
+                     /label=Rnmt
+     misc_feature    7008..7093
+                     /label=scaffold
+     3'UTR           7008..7093
+                     /label=Qi gRNA scaffold
+     misc_feature    7105..7149
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7105..7138
+                     /label=TATA-TC9
+     misc_feature    7151..7170
+                     /label=Pus7
+     misc_feature    7171..7256
+                     /label=scaffold
+     3'UTR           7171..7256
+                     /label=Qi gRNA scaffold
+     misc_feature    7268..7312
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7268..7301
+                     /label=TATA-TC9
+     misc_feature    7314..7333
+                     /label=Mettl3-3
+     misc_feature    7334..7419
+                     /label=scaffold
+     3'UTR           7334..7419
+                     /label=Qi gRNA scaffold
+     misc_feature    7431..7475
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7431..7464
+                     /label=TATA-TC9
+     misc_feature    7477..7496
+                     /label=Trmt5
+     misc_feature    7497..7582
+                     /label=scaffold
+     3'UTR           7497..7582
+                     /label=Qi gRNA scaffold
+     misc_feature    7594..7638
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7594..7627
+                     /label=TATA-TC9
+     misc_feature    7640..7659
+                     /label=Mettl14
+     misc_feature    7660..7745
+                     /label=scaffold
+     3'UTR           7660..7745
+                     /label=Qi gRNA scaffold
+     misc_feature    7757..7801
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7757..7790
+                     /label=TATA-TC9
+     misc_feature    7803..7822
+                     /label=Qtrt1
+     3'UTR           7823..7908
+                     /label=Qi gRNA scaffold
+     misc_feature    7823..7908
+                     /label=scaffold
+     misc_feature    7920..7964
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    7920..7953
+                     /label=TATA-TC9
+     misc_feature    7966..7985
+                     /label=Trmo
+     3'UTR           7986..8071
+                     /label=Qi gRNA scaffold
+     misc_feature    7986..8071
+                     /label=scaffold
+     misc_feature    8083..8127
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8083..8116
+                     /label=TATA-TC9
+     misc_feature    8129..8148
+                     /label=Mrm2
+     3'UTR           8149..8234
+                     /label=Qi gRNA scaffold
+     misc_feature    8149..8234
+                     /label=scaffold
+     misc_feature    8246..8290
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8246..8279
+                     /label=TATA-TC9
+     misc_feature    8292..8311
+                     /label=Dimt1
+     misc_feature    8312..8397
+                     /label=scaffold
+     3'UTR           8312..8397
+                     /label=Qi gRNA scaffold
+     misc_feature    8409..8453
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8409..8442
+                     /label=TATA-TC9
+     misc_feature    8455..8474
+                     /label=NC3
+     misc_feature    8475..8560
+                     /label=scaffold
+     3'UTR           8475..8560
+                     /label=Qi gRNA scaffold
+     misc_feature    8572..8616
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8572..8605
+                     /label=TATA-TC9
+     misc_feature    8618..8637
+                     /label=Nsun4
+     3'UTR           8638..8723
+                     /label=Qi gRNA scaffold
+     misc_feature    8638..8723
+                     /label=scaffold
+     misc_feature    8735..8779
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8735..8768
+                     /label=TATA-TC9
+     misc_feature    8781..8800
+                     /label=Dcps
+     3'UTR           8801..8886
+                     /label=Qi gRNA scaffold
+     misc_feature    8801..8886
+                     /label=scaffold
+     misc_feature    8898..8942
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    8898..8931
+                     /label=TATA-TC9
+     misc_feature    8944..8963
+                     /label=Ctu1
+     3'UTR           8964..9049
+                     /label=Qi gRNA scaffold
+     misc_feature    8964..9049
+                     /label=scaffold
+     misc_feature    9061..9105
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9061..9094
+                     /label=TATA-TC9
+     misc_feature    9107..9126
+                     /label=Trmt10c
+     3'UTR           9127..9212
+                     /label=Qi gRNA scaffold
+     misc_feature    9127..9212
+                     /label=scaffold
+     misc_feature    9224..9268
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9224..9257
+                     /label=TATA-TC9
+     misc_feature    9270..9289
+                     /label=Mettl3-2
+     misc_feature    9290..9375
+                     /label=scaffold
+     3'UTR           9290..9375
+                     /label=Qi gRNA scaffold
+     misc_feature    9387..9431
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9387..9420
+                     /label=TATA-TC9
+     misc_feature    9433..9452
+                     /label=Adat1
+     3'UTR           9453..9538
+                     /label=Qi gRNA scaffold
+     misc_feature    9453..9538
+                     /label=scaffold
+     misc_feature    9550..9594
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9550..9583
+                     /label=TATA-TC9
+     misc_feature    9596..9615
+                     /label=Trp53rka
+     misc_feature    9616..9701
+                     /label=scaffold
+     3'UTR           9616..9701
+                     /label=Qi gRNA scaffold
+     misc_feature    9713..9757
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9713..9746
+                     /label=TATA-TC9
+     misc_feature    9759..9778
+                     /label=Thg1l
+     3'UTR           9779..9864
+                     /label=Qi gRNA scaffold
+     misc_feature    9779..9864
+                     /label=scaffold
+     misc_feature    9876..9920
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    9876..9909
+                     /label=TATA-TC9
+     misc_feature    9922..9941
+                     /label=Cdkal1
+     3'UTR           9942..10027
+                     /label=Qi gRNA scaffold
+     misc_feature    9942..10027
+                     /label=scaffold
+     misc_feature    10039..10083
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10039..10072
+                     /label=TATA-TC9
+     misc_feature    10085..10104
+                     /label=NC4
+     3'UTR           10105..10190
+                     /label=Qi gRNA scaffold
+     misc_feature    10105..10190
+                     /label=scaffold
+     misc_feature    10202..10246
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10202..10235
+                     /label=TATA-TC9
+     misc_feature    10248..10267
+                     /label=Trmt10b
+     misc_feature    10268..10353
+                     /label=scaffold
+     3'UTR           10268..10353
+                     /label=Qi gRNA scaffold
+     misc_feature    10365..10409
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10365..10398
+                     /label=TATA-TC9
+     misc_feature    10411..10430
+                     /label=Rpusd4
+     misc_feature    10431..10516
+                     /label=scaffold
+     3'UTR           10431..10516
+                     /label=Qi gRNA scaffold
+     misc_feature    10528..10572
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10528..10561
+                     /label=TATA-TC9
+     misc_feature    10574..10593
+                     /label=Elp3
+     3'UTR           10594..10679
+                     /label=Qi gRNA scaffold
+     misc_feature    10594..10679
+                     /label=scaffold
+     misc_feature    10691..10735
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10691..10724
+                     /label=TATA-TC9
+     misc_feature    10737..10756
+                     /label=Tprkb
+     3'UTR           10757..10842
+                     /label=Qi gRNA scaffold
+     misc_feature    10757..10842
+                     /label=scaffold
+     misc_feature    10854..10898
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    10854..10887
+                     /label=TATA-TC9
+     misc_feature    10900..10919
+                     /label=Trmt112
+     misc_feature    10920..11005
+                     /label=scaffold
+     3'UTR           10920..11005
+                     /label=Qi gRNA scaffold
+     misc_feature    11017..11061
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11017..11050
+                     /label=TATA-TC9
+     misc_feature    11063..11082
+                     /label=Ythdc1-1
+     3'UTR           11083..11168
+                     /label=Qi gRNA scaffold
+     misc_feature    11083..11168
+                     /label=scaffold
+     misc_feature    11180..11224
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11180..11213
+                     /label=TATA-TC9
+     misc_feature    11226..11245
+                     /label=Tgs1
+     3'UTR           11246..11331
+                     /label=Qi gRNA scaffold
+     misc_feature    11246..11331
+                     /label=scaffold
+     misc_feature    11343..11387
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11343..11376
+                     /label=TATA-TC9
+     misc_feature    11389..11408
+                     /label=Mettl3-1
+     misc_feature    11409..11494
+                     /label=scaffold
+     3'UTR           11409..11494
+                     /label=Qi gRNA scaffold
+     misc_feature    11506..11550
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11506..11539
+                     /label=TATA-TC9
+     misc_feature    11552..11571
+                     /label=Alkbh3-2
+     3'UTR           11572..11657
+                     /label=Qi gRNA scaffold
+     misc_feature    11572..11657
+                     /label=scaffold
+     misc_feature    11669..11713
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11669..11702
+                     /label=TATA-TC9
+     misc_feature    11715..11734
+                     /label=NC5
+     misc_feature    11735..11820
+                     /label=scaffold
+     3'UTR           11735..11820
+                     /label=Qi gRNA scaffold
+     misc_feature    11832..11876
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11832..11865
+                     /label=TATA-TC9
+     misc_feature    11878..11897
+                     /label=NC5
+     misc_feature    11898..11983
+                     /label=scaffold
+     3'UTR           11898..11983
+                     /label=Qi gRNA scaffold
+     misc_feature    11995..12039
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    11995..12028
+                     /label=TATA-TC9
+     misc_feature    12041..12060
+                     /label=Ythdf1-2
+     misc_feature    12061..12146
+                     /label=scaffold
+     3'UTR           12061..12146
+                     /label=Qi gRNA scaffold
+     misc_feature    12158..12202
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12158..12191
+                     /label=TATA-TC9
+     misc_feature    12204..12223
+                     /label=Mettl1
+     misc_feature    12224..12309
+                     /label=scaffold
+     3'UTR           12224..12309
+                     /label=Qi gRNA scaffold
+     misc_feature    12321..12365
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12321..12354
+                     /label=TATA-TC9
+     misc_feature    12367..12386
+                     /label=Fto-1
+     misc_feature    12387..12472
+                     /label=scaffold
+     3'UTR           12387..12472
+                     /label=Qi gRNA scaffold
+     misc_feature    12484..12528
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12484..12517
+                     /label=TATA-TC9
+     misc_feature    12530..12549
+                     /label=Nfs1
+     misc_feature    12550..12635
+                     /label=scaffold
+     3'UTR           12550..12635
+                     /label=Qi gRNA scaffold
+     misc_feature    12647..12691
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12647..12680
+                     /label=TATA-TC9
+     misc_feature    12693..12712
+                     /label=Gon7-1
+     misc_feature    12713..12798
+                     /label=scaffold
+     3'UTR           12713..12798
+                     /label=Qi gRNA scaffold
+     misc_feature    12810..12854
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12810..12843
+                     /label=TATA-TC9
+     misc_feature    12856..12875
+                     /label=Cmtr1
+     misc_feature    12876..12961
+                     /label=scaffold
+     3'UTR           12876..12961
+                     /label=Qi gRNA scaffold
+     misc_feature    12973..13017
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    12973..13006
+                     /label=TATA-TC9
+     misc_feature    13019..13038
+                     /label=Bcdin3d
+     3'UTR           13039..13124
+                     /label=Qi gRNA scaffold
+     misc_feature    13039..13124
+                     /label=scaffold
+     misc_feature    13136..13180
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13136..13169
+                     /label=TATA-TC9
+     misc_feature    13182..13201
+                     /label=Txn1
+     misc_feature    13202..13287
+                     /label=scaffold
+     3'UTR           13202..13287
+                     /label=Qi gRNA scaffold
+     misc_feature    13299..13343
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13299..13332
+                     /label=TATA-TC9
+     misc_feature    13345..13364
+                     /label=NC6
+     misc_feature    13365..13450
+                     /label=scaffold
+     3'UTR           13365..13450
+                     /label=Qi gRNA scaffold
+     misc_feature    13462..13506
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13462..13495
+                     /label=TATA-TC9
+     misc_feature    13508..13527
+                     /label=Mepce
+     misc_feature    13528..13613
+                     /label=scaffold
+     3'UTR           13528..13613
+                     /label=Qi gRNA scaffold
+     misc_feature    13625..13669
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13625..13658
+                     /label=TATA-TC9
+     misc_feature    13671..13690
+                     /label=Mettl2
+     misc_feature    13691..13776
+                     /label=scaffold
+     3'UTR           13691..13776
+                     /label=Qi gRNA scaffold
+     misc_feature    13788..13832
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13788..13821
+                     /label=TATA-TC9
+     misc_feature    13834..13853
+                     /label=Iscu
+     misc_feature    13854..13939
+                     /label=scaffold
+     3'UTR           13854..13939
+                     /label=Qi gRNA scaffold
+     misc_feature    13951..13995
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    13951..13984
+                     /label=TATA-TC9
+     misc_feature    13997..14016
+                     /label=Trmt61b
+     misc_feature    14017..14102
+                     /label=scaffold
+     3'UTR           14017..14102
+                     /label=Qi gRNA scaffold
+     misc_feature    14114..14158
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14114..14147
+                     /label=TATA-TC9
+     misc_feature    14160..14179
+                     /label=Alkbh8
+     misc_feature    14180..14265
+                     /label=scaffold
+     3'UTR           14180..14265
+                     /label=Qi gRNA scaffold
+     misc_feature    14277..14321
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14277..14310
+                     /label=TATA-TC9
+     misc_feature    14323..14342
+                     /label=Mrm3
+     misc_feature    14343..14428
+                     /label=scaffold
+     3'UTR           14343..14428
+                     /label=Qi gRNA scaffold
+     misc_feature    14440..14484
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14440..14473
+                     /label=TATA-TC9
+     misc_feature    14486..14505
+                     /label=Elp1
+     misc_feature    14506..14591
+                     /label=scaffold
+     3'UTR           14506..14591
+                     /label=Qi gRNA scaffold
+     misc_feature    14603..14647
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14603..14636
+                     /label=TATA-TC9
+     misc_feature    14649..14668
+                     /label=Bud23
+     3'UTR           14669..14754
+                     /label=Qi gRNA scaffold
+     misc_feature    14669..14754
+                     /label=scaffold
+     misc_feature    14766..14810
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14766..14799
+                     /label=TATA-TC9
+     misc_feature    14812..14831
+                     /label=Hsd17b10
+     misc_feature    14832..14917
+                     /label=scaffold
+     3'UTR           14832..14917
+                     /label=Qi gRNA scaffold
+     misc_feature    14929..14973
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    14929..14962
+                     /label=TATA-TC9
+     misc_feature    14975..14994
+                     /label=NC7
+     misc_feature    14995..15080
+                     /label=scaffold
+     3'UTR           14995..15080
+                     /label=Qi gRNA scaffold
+     misc_feature    15092..15136
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15092..15125
+                     /label=TATA-TC9
+     misc_feature    15138..15157
+                     /label=Adat3
+     misc_feature    15158..15243
+                     /label=scaffold
+     3'UTR           15158..15243
+                     /label=Qi gRNA scaffold
+     misc_feature    15255..15299
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15255..15288
+                     /label=TATA-TC9
+     misc_feature    15301..15320
+                     /label=Trdmt1
+     misc_feature    15321..15406
+                     /label=scaffold
+     3'UTR           15321..15406
+                     /label=Qi gRNA scaffold
+     misc_feature    15418..15462
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15418..15451
+                     /label=TATA-TC9
+     misc_feature    15464..15483
+                     /label=Gon7-2
+     misc_feature    15484..15569
+                     /label=scaffold
+     3'UTR           15484..15569
+                     /label=Qi gRNA scaffold
+     misc_feature    15581..15625
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15581..15614
+                     /label=TATA-TC9
+     misc_feature    15627..15646
+                     /label=Mettl6
+     3'UTR           15647..15732
+                     /label=Qi gRNA scaffold
+     misc_feature    15647..15732
+                     /label=scaffold
+     misc_feature    15744..15788
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15744..15777
+                     /label=TATA-TC9
+     misc_feature    15790..15809
+                     /label=Thumpd1
+     3'UTR           15810..15895
+                     /label=Qi gRNA scaffold
+     misc_feature    15810..15895
+                     /label=scaffold
+     misc_feature    15907..15951
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    15907..15940
+                     /label=TATA-TC9
+     misc_feature    15953..15972
+                     /label=Wdr4
+     misc_feature    15973..16058
+                     /label=scaffold
+     3'UTR           15973..16058
+                     /label=Qi gRNA scaffold
+     misc_feature    16070..16114
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16070..16103
+                     /label=TATA-TC9
+     misc_feature    16116..16135
+                     /label=Alkbh5
+     misc_feature    16136..16221
+                     /label=scaffold
+     3'UTR           16136..16221
+                     /label=Qi gRNA scaffold
+     misc_feature    16233..16277
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16233..16266
+                     /label=TATA-TC9
+     misc_feature    16279..16298
+                     /label=Trmt61a
+     misc_feature    16299..16384
+                     /label=scaffold
+     3'UTR           16299..16384
+                     /label=Qi gRNA scaffold
+     misc_feature    16396..16440
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16396..16429
+                     /label=TATA-TC9
+     misc_feature    16442..16461
+                     /label=Trit1
+     misc_feature    16462..16547
+                     /label=scaffold
+     3'UTR           16462..16547
+                     /label=Qi gRNA scaffold
+     misc_feature    16559..16603
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16559..16592
+                     /label=TATA-TC9
+     misc_feature    16605..16624
+                     /label=NC8
+     misc_feature    16625..16710
+                     /label=scaffold
+     3'UTR           16625..16710
+                     /label=Qi gRNA scaffold
+     misc_feature    16722..16766
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16722..16755
+                     /label=TATA-TC9
+     misc_feature    16768..16787
+                     /label=Ythdc1-2
+     misc_feature    16788..16873
+                     /label=scaffold
+     3'UTR           16788..16873
+                     /label=Qi gRNA scaffold
+     misc_feature    16885..16929
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    16885..16918
+                     /label=TATA-TC9
+     misc_feature    16931..16950
+                     /label=Tfb1m
+     misc_feature    16951..17036
+                     /label=scaffold
+     3'UTR           16951..17036
+                     /label=Qi gRNA scaffold
+     misc_feature    17048..17092
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17048..17081
+                     /label=TATA-TC9
+     misc_feature    17094..17113
+                     /label=Trmt6
+     misc_feature    17114..17199
+                     /label=scaffold
+     3'UTR           17114..17199
+                     /label=Qi gRNA scaffold
+     misc_feature    17211..17255
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17211..17244
+                     /label=TATA-TC9
+     misc_feature    17257..17276
+                     /label=Trmt10a
+     misc_feature    17277..17362
+                     /label=scaffold
+     3'UTR           17277..17362
+                     /label=Qi gRNA scaffold
+     misc_feature    17374..17418
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17374..17407
+                     /label=TATA-TC9
+     misc_feature    17420..17439
+                     /label=Pus3
+     3'UTR           17440..17525
+                     /label=Qi gRNA scaffold
+     misc_feature    17440..17525
+                     /label=scaffold
+     misc_feature    17537..17581
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17537..17570
+                     /label=TATA-TC9
+     misc_feature    17583..17602
+                     /label=Urm1
+     3'UTR           17603..17688
+                     /label=Qi gRNA scaffold
+     misc_feature    17603..17688
+                     /label=scaffold
+     misc_feature    17700..17744
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17700..17733
+                     /label=TATA-TC9
+     misc_feature    17746..17765
+                     /label=Alkbh3-1
+     misc_feature    17766..17851
+                     /label=scaffold
+     3'UTR           17766..17851
+                     /label=Qi gRNA scaffold
+     misc_feature    17863..17907
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    17863..17896
+                     /label=TATA-TC9
+     misc_feature    17909..17928
+                     /label=Qtrt2
+     misc_feature    17929..18014
+                     /label=scaffold
+     3'UTR           17929..18014
+                     /label=Qi gRNA scaffold
+     misc_feature    18026..18070
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    18026..18059
+                     /label=TATA-TC9
+     misc_feature    18072..18091
+                     /label=Mettl16
+     3'UTR           18092..18177
+                     /label=Qi gRNA scaffold
+     misc_feature    18092..18177
+                     /label=scaffold
+     misc_feature    18189..18233
+                     /label=mouse U6 Loxp' promoter
+     misc_feature    18189..18222
+                     /label=TATA-TC9
+     misc_feature    18235..18253
+                     /label=sgCD47 CRISPRe TC693E
+     3'UTR           18254..18339
+                     /label=Qi gRNA scaffold
+     misc_feature    18254..18339
+                     /label=scaffold
+     primer_bind     complement(18348..18353)
+                     /label=M13 rev
+                     /note="common sequencing primer, one of multiple similar 
+                     variants"
+     protein_bind    18361..18377
+                     /label=lac operator
+                     /bound_moiety="lac repressor encoded by lacI"
+                     /note="The lac repressor binds to the lac operator to 
+                     inhibit transcription in E. coli. This inhibition can be 
+                     relieved by adding lactose or 
+                     isopropyl-beta-D-thiogalactopyranoside (IPTG)."
+     promoter        complement(18385..18401)
+                     /label=lac promoter
+                     /note="promoter for the E. coli lac operon"
+     misc_feature    18405..20052
+                     /label=CAG promoter
+     enhancer        18405..18702
+                     /label=CMV enhancer
+                     /note="human cytomegalovirus immediate early enhancer"
+     promoter        18704..18981
+                     /label=chicken beta-actin promoter
+     misc_feature    18982..19076
+                     /label=Exon
+     misc_feature    18982
+                     /label=TSS
+     intron          18983..20000
+                     /label=chimeric intron
+                     /note="chimera between introns from chicken beta-actin and 
+                     rabbit beta-globin"
+     misc_feature    19067..19086
+                     /label=SD
+     misc_feature    19077..20010
+                     /label=Intron
+     misc_feature    19959..20010
+                     /label=globin intron
+     misc_feature    19991..20010
+                     /label=Globin SA
+     misc_feature    20011..20052
+                     /label=globin exon
+     misc_feature    20056..20065
+                     /label=Kozak sequence
+     CDS             20062..20763
+                     /codon_start=1
+                     /product="monomeric blue fluorescent protein"
+                     /label=TagBFP
+                     /note="mammalian codon-optimized"
+                     /translation="MSELIKENMHMKLYMEGTVDNHHFKCTSEGEGKPYEGTQTMRIKV
+                     VEGGPLPFAFDILATSFLYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTA
+                     TQDTSLQDGCLIYNVKIRGVNFTSNGPVMQKKTLGWEAFTETLYPADGGLEGRNDMALK
+                     LVGGSHLIANIKTTYRSKKPAKNLKMPGVYYVDYRLERIKEANNETYVEQHEVAVARYC
+                     DLPSKLGHKLN"
+     polyA_signal    20771..20905
+                     /label=SV40 poly(A) signal
+                     /note="SV40 polyadenylation signal"
+     misc_feature    20969
+                     /label=SacI-HindIII core sequence
+                     /note="SacI-HindIII core sequence"
+     misc_feature    20996..20998
+                     /label=SacI-HindIII core sequence
+                     /note="SacI-HindIII core sequence"
+     misc_feature    20996
+                     /label=footprint I
+                     /note="footprint I"
+     misc_feature    complement(21005..21249)
+                     /label=mini-5 6(3' TR)
+     misc_feature    21049
+                     /label=added per Bradley
+     misc_feature    21050
+                     /label=extra T in Bradley
+     misc_feature    complement(21183..21249)
+                     /label=micro-5 6 SacI end
+     misc_feature    21199
+                     /label=changed to C per Bradley
+     misc_feature    21237..21249
+                     /label=13 bp repeat
+     misc_feature    21256..21386
+                     /label=cloning region
+     rep_origin      complement(21405..21993)
+                     /direction=LEFT
+                     /label=ori
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of 
+                     replication"
+ORIGIN
+        1 aaatcaatct aaagtatata tgagtaaact tggtctgaca gttaccaatg cttaatcagt
+       61 gaggcaccta tctcagcgat ctgtctattt cgttcatcca tagttgcctg actccccgtc
+      121 gtgtagataa ctacgatacg ggagggctta ccatctggcc ccagtgctgc aatgataccg
+      181 cgagatccac gctcaccggc tccagattta tcagcaataa accagccagc cggaagggcc
+      241 gagcgcagaa gtggtcctgc aactttatcc gcctccatcc agtctattaa ttgttgccgg
+      301 gaagctagag taagtagttc gccagttaat agtttgcgca acgttgttgc cattgctaca
+      361 ggcatcgtgg tgtcacgctc gtcgtttggt atggcttcat tcagctccgg ttcccaacga
+      421 tcaaggcgag ttacatgatc ccccatgttg tgcaaaaaag cggttagctc cttcggtcct
+      481 ccgatcgttg tcagaagtaa gttggccgca gtgttatcac tcatggttat ggcagcactg
+      541 cataattctc ttactgtcat gccatccgta agatgctttt ctgtgactgg tgagtactca
+      601 accaagtcat tctgagaata gtgtatgcgg cgaccgagtt gctcttgccc ggcgtcaata
+      661 cgggataata ccgcgccaca tagcagaact ttaaaagtgc tcatcattgg aaaacgttct
+      721 tcggggcgaa aactctcaag gatcttaccg ctgttgagat ccagttcgat gtaacccact
+      781 cgtgcaccca actgatcttc agcatctttt actttcacca gcgtttctgg gtgagcaaaa
+      841 acaggaaggc aaaatgccgc aaaaaaggga ataagggcga cacggaaatg ttgaatactc
+      901 atactcttcc tttttcaata ttattgaagc atttatcagg gttattgtct catgagcgga
+      961 tacatatttg aatgtattta gaaaaataaa caaatagggg ttccgcgcac atttccccga
+     1021 aaagtgccac ctgacgtcta agaaaccatt attatcatga cattaaccta taaaaatagg
+     1081 cgtatcacga ggccctttag gcctttaacc ctagaaagat agtctgcgta aaattgacgc
+     1141 atgcattctt gaaatattgc tctctctttc taaatagcgc gaatccgtcg ctgtgcattt
+     1201 aggacatctc agtcgccgct tggagctccc gtgaggcgtg cttgtcaatg cggtaagtgt
+     1261 cactgatttt gaactataac gaccgcgtga gtcaaaatga cgcatgatta tcttttacgt
+     1321 gacttttaag atttaactca tacgataatt atattgttat ttcatgttct acttacgtga
+     1381 taacttatta tatatatatt ttcttgttat agatagcttc gataccgtcg gctcgagaat
+     1441 gcatctagag gatccccaca ggtccgacgc cgccatctct aggcccgcgc cggccccctc
+     1501 gcacagactt gtgggagaag ctcggctact cccctgcccc ggttaatttg catataatat
+     1561 ttcctagtaa ctatagaggc ttaatgtgcg ataaaagaca gataatctgt tctttttaat
+     1621 actagctaca ttttacatga taggcttgga tttctataag agatacaaat actaaattat
+     1681 tattttaaaa aacagcacaa aaggaaactc accctaactg taaagtaatt taccgttcgt
+     1741 atagtataaa ttatacgaag ttataagcct tgtttgaatg tctcagacca tatggggttt
+     1801 aagagctatg ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga
+     1861 aaaagtggca ccgagtcggt gctttttttg ggaagttcct attccgaagt tcctattctt
+     1921 caaatagtat aggaacttcg aacgctgacg tcatcaaccc gctccaagga atcgcgggcc
+     1981 cagtgtcact aggcgggaac acccagcgcg cgtgcgccct ggcaggaaga tggctgtgag
+     2041 ggacagggga gtggcgccct gcaatatttg catgtcgcta tgtgttctgg gaaatcacca
+     2101 taaacgtgaa atgtctttgg atttgggaat cttcgaagtt ctgtatgaga ccacgaaaca
+     2161 ccggaattcg ccaccatggt gagcaagggc gaggccgtga tcaaggagtt catgaggttt
+     2221 aaggtgcaca tggagggcag catgaacggc cacgagttcg agatcgaggg agagggagag
+     2281 ggcagaccct acgagggcac ccagacagct aagctgaagg tgaccaaggg cggaccactg
+     2341 ccctttagct gggacatcct gtcccctcag ttcatgtacg gcagcagggc cttcatcaag
+     2401 caccctgctg acatcccaga ttactacaag cagtctttcc cagagggctt taagtgggag
+     2461 agagtgatga acttcgagga cggcggagcc gtgaccgtga cacaggacac ctctctggag
+     2521 gatggaacac tgatctacaa ggtgaagctg cggggaacaa actttccccc tgatggccca
+     2581 gtgatgcaga agaaaaccat gggatgggag gccagcacag agcgcctgta cccagaggac
+     2641 ggagtgctga agggcgacat caagatggct ctgcggctga aggacggagg acgctacctg
+     2701 gccgatttca agaccacata caaggctaag aagcccgtgc agatgcctgg agcttacaac
+     2761 gtggacagaa agctggacat cacctcccac aacgaggact acacagtggt ggagcagtac
+     2821 gagaggtctg agggcagaca cagcaccggc ggaatggatg agctgtacaa gtgagatatc
+     2881 aagcttatcg ataatcaacc tctggattac aaaatttgtg aaagattgac tggtattctt
+     2941 aactatgttg ctccttttac gctatgtgga tacgctgctt taatgccttt gtatcatgct
+     3001 attgcttccc gtatggcttt cattttctcc tccttgtata aatcctggtt gctgtctctt
+     3061 tatgaggagt tgtggcccgt tgtcaggcaa cgtggcgtgg tgtgcactgt gtttgctgac
+     3121 gcaaccccca ctggttgggg cattgccacc acctgtcagc tcctttccgg gactttcgct
+     3181 ttccccctcc ctattgccac ggcggaactc atcgccgcct gccttgcccg ctgctggaca
+     3241 ggggctcggc tgttgggcac tgacaattcc gtggtgttgt cggggaaatc atcgtccttt
+     3301 ccttggctgc tcgcctgtgt tgccacctgg attctgcgcg ggacgtcctt ctgctacgtc
+     3361 ccttcggccc tcaatccagc ggaccttcct tcccgcggcc tgctgccggc tctgcggcct
+     3421 cttccgcgac ttcgccttcg ccctcagacg agtcggatct ccctttgggc cgcctccccg
+     3481 cagatctaac ttgtttattg cagcttataa tggttacaaa taaagcaata gcatcacaaa
+     3541 tttcacaaat aaagcatttt tttcactgca ttctagttgt ggtttgtcca aactcatcaa
+     3601 tgtatcttag aagttcctat tccgaagttc ctattcttca aatagtatag gaacttcctc
+     3661 gagaatgcat ctagaggagt gataacttcg tatagtataa attattgctt cggtaaagcc
+     3721 ttgtttgttg tgtttcccta tagacaggtt taagagctat gctggaaaca gcatagcaag
+     3781 tttaaataag gctagtccgt tatcaacttg aaaaagtggc accgagtcgg tgcttttttt
+     3841 gcccataact tcgtatagta taaattattg cttcggtaaa gccttgtttg tgaaatatga
+     3901 tgcaactgtg gtttaagagc tatgctggaa acagcatagc aagtttaaat aaggctagtc
+     3961 cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttatccata acttcgtata
+     4021 gtataaatta ttgcttcggt aaagccttgt ttgagtgctt gcaaggccca gaggtttaag
+     4081 agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc aacttgaaaa
+     4141 agtggcaccg agtcggtgct ttttttggta ataacttcgt atagtataaa ttattgcttc
+     4201 ggtaaagcct tgtttgcatg gctggtgtgt cctcgggttt aagagctatg ctggaaacag
+     4261 catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt
+     4321 gcttttttta cggataactt cgtatagtat aaattattgc ttcggtaaag ccttgtttga
+     4381 caggtttcag cccccgtggg tttaagagct atgctggaaa cagcatagca agtttaaata
+     4441 aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt ttagtcataa
+     4501 cttcgtatag tataaattat tgcttcggta aagccttgtt tgagcagcgt cttccggtac
+     4561 ccgtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag tccgttatca
+     4621 acttgaaaaa gtggcaccga gtcggtgctt tttttacaca taacttcgta tagtataaat
+     4681 tattgcttcg gtaaagcctt gtttggctgt ccacaccgcc agacagttta agagctatgc
+     4741 tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac
+     4801 cgagtcggtg ctttttttct gcataacttc gtatagtata aattattgct tcggtaaagc
+     4861 cttgtttgag ccattctcct tggccagggt ttaagagcta tgctggaaac agcatagcaa
+     4921 gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt
+     4981 taacgataac ttcgtatagt ataaattatt gcttcggtaa agccttgttt gttccccgcg
+     5041 ccgagccacc ggtttaagag ctatgctgga aacagcatag caagtttaaa taaggctagt
+     5101 ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt ttttcgccat aacttcgtat
+     5161 agtataaatt attgcttcgg taaagccttg tttggagggt cggccctaca gcgtgtttaa
+     5221 gagctatgct ggaaacagca tagcaagttt aaataaggct agtccgttat caacttgaaa
+     5281 aagtggcacc gagtcggtgc tttttttagg aataacttcg tatagtataa attattgctt
+     5341 cggtaaagcc ttgtttgcca caggagaagc tctccgtgtt taagagctat gctggaaaca
+     5401 gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc accgagtcgg
+     5461 tgcttttttt gcccataact tcgtatagta taaattattg cttcggtaaa gccttgtttg
+     5521 ttggactgtc cagaaaggta gtttaagagc tatgctggaa acagcatagc aagtttaaat
+     5581 aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttatccata
+     5641 acttcgtata gtataaatta ttgcttcggt aaagccttgt ttggatagaa ctcatcatct
+     5701 ttggtttaag agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc
+     5761 aacttgaaaa agtggcaccg agtcggtgct ttttttggta ataacttcgt atagtataaa
+     5821 ttattgcttc ggtaaagcct tgtttgcatc ggcgccatct gcagtggttt aagagctatg
+     5881 ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca
+     5941 ccgagtcggt gcttttttta cggataactt cgtatagtat aaattattgc ttcggtaaag
+     6001 ccttgtttga gctttgtaag gatgtccccg tttaagagct atgctggaaa cagcatagca
+     6061 agtttaaata aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt
+     6121 ttagtcataa cttcgtatag tataaattat tgcttcggta aagccttgtt tgcctgtacg
+     6181 gacaccacgc acgtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag
+     6241 tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttacaca taacttcgta
+     6301 tagtataaat tattgcttcg gtaaagcctt gtttgtgtga gcggaggaaa tacccgttta
+     6361 agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa
+     6421 aaagtggcac cgagtcggtg ctttttttct gcataacttc gtatagtata aattattgct
+     6481 tcggtaaagc cttgtttgac cttacaaaca cccatccagt ttaagagcta tgctggaaac
+     6541 agcatagcaa gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg
+     6601 gtgctttttt taacgataac ttcgtatagt ataaattatt gcttcggtaa agccttgttt
+     6661 gggaactcaa gatcgtgcca ggtttaagag ctatgctgga aacagcatag caagtttaaa
+     6721 taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt ttttcgccat
+     6781 aacttcgtat agtataaatt attgcttcgg taaagccttg tttggaaggc cagttcgccg
+     6841 acgggtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct agtccgttat
+     6901 caacttgaaa aagtggcacc gagtcggtgc tttttttcca gataacttcg tatagtataa
+     6961 attattgctt cggtaaagcc ttgtttgtga tctacttgct ggcatgggtt taagagctat
+     7021 gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc
+     7081 accgagtcgg tgcttttttt gcccataact tcgtatagta taaattattg cttcggtaaa
+     7141 gccttgtttg gcccaggctc gttctcactg gtttaagagc tatgctggaa acagcatagc
+     7201 aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt
+     7261 tttatccata acttcgtata gtataaatta ttgcttcggt aaagccttgt ttgcacggga
+     7321 ctatcactac ggagtttaag agctatgctg gaaacagcat agcaagttta aataaggcta
+     7381 gtccgttatc aacttgaaaa agtggcaccg agtcggtgct ttttttggta ataacttcgt
+     7441 atagtataaa ttattgcttc ggtaaagcct tgtttgtgac ccaacaagaa aacagagttt
+     7501 aagagctatg ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga
+     7561 aaaagtggca ccgagtcggt gcttttttta cggataactt cgtatagtat aaattattgc
+     7621 ttcggtaaag ccttgtttga aatagcaaag atgaacagag tttaagagct atgctggaaa
+     7681 cagcatagca agtttaaata aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc
+     7741 ggtgcttttt ttagtcataa cttcgtatag tataaattat tgcttcggta aagccttgtt
+     7801 tgggggtggc taccgttcca tggtttaaga gctatgctgg aaacagcata gcaagtttaa
+     7861 ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttacaca
+     7921 taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttgcagcc aagattggca
+     7981 ctccagttta agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta
+     8041 tcaacttgaa aaagtggcac cgagtcggtg ctttttttct gcataacttc gtatagtata
+     8101 aattattgct tcggtaaagc cttgtttgac agcagtgtgt cactacaggt ttaagagcta
+     8161 tgctggaaac agcatagcaa gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg
+     8221 caccgagtcg gtgctttttt taacgataac ttcgtatagt ataaattatt gcttcggtaa
+     8281 agccttgttt gcaggactca tgttcaacac agtttaagag ctatgctgga aacagcatag
+     8341 caagtttaaa taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt
+     8401 ttttcgccat aacttcgtat agtataaatt attgcttcgg taaagccttg tttggacgac
+     8461 gacgaagcga ccgtgtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct
+     8521 agtccgttat caacttgaaa aagtggcacc gagtcggtgc tttttttcat cataacttcg
+     8581 tatagtataa attattgctt cggtaaagcc ttgtttgaac cacaattcac ggccagtgtt
+     8641 taagagctat gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg
+     8701 aaaaagtggc accgagtcgg tgcttttttt gcccataact tcgtatagta taaattattg
+     8761 cttcggtaaa gccttgtttg ggagaacggt aagcggacag gtttaagagc tatgctggaa
+     8821 acagcatagc aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt
+     8881 cggtgctttt tttatccata acttcgtata gtataaatta ttgcttcggt aaagccttgt
+     8941 ttgacggcca ctacagcgcc cgggtttaag agctatgctg gaaacagcat agcaagttta
+     9001 aataaggcta gtccgttatc aacttgaaaa agtggcaccg agtcggtgct ttttttggta
+     9061 ataacttcgt atagtataaa ttattgcttc ggtaaagcct tgtttgagca gctagaattg
+     9121 gatggggttt aagagctatg ctggaaacag catagcaagt ttaaataagg ctagtccgtt
+     9181 atcaacttga aaaagtggca ccgagtcggt gcttttttta cggataactt cgtatagtat
+     9241 aaattattgc ttcggtaaag ccttgtttgt caaggccaga tctgagaggg tttaagagct
+     9301 atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact tgaaaaagtg
+     9361 gcaccgagtc ggtgcttttt ttagtcataa cttcgtatag tataaattat tgcttcggta
+     9421 aagccttgtt tgcagtccaa gatgcgagag aggtttaaga gctatgctgg aaacagcata
+     9481 gcaagtttaa ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgctt
+     9541 tttttacaca taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttggccga
+     9601 ggcgcgcgtc ttccggttta agagctatgc tggaaacagc atagcaagtt taaataaggc
+     9661 tagtccgtta tcaacttgaa aaagtggcac cgagtcggtg ctttttttct gcataacttc
+     9721 gtatagtata aattattgct tcggtaaagc cttgtttgat gcctgccgca ctgctggggt
+     9781 ttaagagcta tgctggaaac agcatagcaa gtttaaataa ggctagtccg ttatcaactt
+     9841 gaaaaagtgg caccgagtcg gtgctttttt taacgataac ttcgtatagt ataaattatt
+     9901 gcttcggtaa agccttgttt gatgcatcag atgcagatct ggtttaagag ctatgctgga
+     9961 aacagcatag caagtttaaa taaggctagt ccgttatcaa cttgaaaaag tggcaccgag
+    10021 tcggtgcttt ttttcgccat aacttcgtat agtataaatt attgcttcgg taaagccttg
+    10081 tttggacggc cgcataactt caccgtttaa gagctatgct ggaaacagca tagcaagttt
+    10141 aaataaggct agtccgttat caacttgaaa aagtggcacc gagtcggtgc tttttttcct
+    10201 cataacttcg tatagtataa attattgctt cggtaaagcc ttgtttggcc ctgcaaacag
+    10261 tgccgtggtt taagagctat gctggaaaca gcatagcaag tttaaataag gctagtccgt
+    10321 tatcaacttg aaaaagtggc accgagtcgg tgcttttttt gcccataact tcgtatagta
+    10381 taaattattg cttcggtaaa gccttgtttg tgcctacaaa ccccgttcag gtttaagagc
+    10441 tatgctggaa acagcatagc aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt
+    10501 ggcaccgagt cggtgctttt tttatccata acttcgtata gtataaatta ttgcttcggt
+    10561 aaagccttgt ttggtccaca catcagtttc acagtttaag agctatgctg gaaacagcat
+    10621 agcaagttta aataaggcta gtccgttatc aacttgaaaa agtggcaccg agtcggtgct
+    10681 ttttttggta ataacttcgt atagtataaa ttattgcttc ggtaaagcct tgtttgacca
+    10741 tcaatagatc cttccagttt aagagctatg ctggaaacag catagcaagt ttaaataagg
+    10801 ctagtccgtt atcaacttga aaaagtggca ccgagtcggt gcttttttta cggataactt
+    10861 cgtatagtat aaattattgc ttcggtaaag ccttgtttga cccttgtgca gttacctgcg
+    10921 tttaagagct atgctggaaa cagcatagca agtttaaata aggctagtcc gttatcaact
+    10981 tgaaaaagtg gcaccgagtc ggtgcttttt ttagtcataa cttcgtatag tataaattat
+    11041 tgcttcggta aagccttgtt tgtcctacac cagatggttc tggtttaaga gctatgctgg
+    11101 aaacagcata gcaagtttaa ataaggctag tccgttatca acttgaaaaa gtggcaccga
+    11161 gtcggtgctt tttttacaca taacttcgta tagtataaat tattgcttcg gtaaagcctt
+    11221 gtttgccttc ctgttgaaaa tacacgttta agagctatgc tggaaacagc atagcaagtt
+    11281 taaataaggc tagtccgtta tcaacttgaa aaagtggcac cgagtcggtg ctttttttct
+    11341 gcataacttc gtatagtata aattattgct tcggtaaagc cttgtttgga gttgattgag
+    11401 gtaaagcggt ttaagagcta tgctggaaac agcatagcaa gtttaaataa ggctagtccg
+    11461 ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt taacgataac ttcgtatagt
+    11521 ataaattatt gcttcggtaa agccttgttt gtgcccatcc tctgtttcca ggtttaagag
+    11581 ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa cttgaaaaag
+    11641 tggcaccgag tcggtgcttt ttttcgccat aacttcgtat agtataaatt attgcttcgg
+    11701 taaagccttg tttggagtag cttatcgggc gcgcgtttaa gagctatgct ggaaacagca
+    11761 tagcaagttt aaataaggct agtccgttat caacttgaaa aagtggcacc gagtcggtgc
+    11821 tttttttcag aataacttcg tatagtataa attattgctt cggtaaagcc ttgtttggag
+    11881 tagcttatcg ggcgcgcgtt taagagctat gctggaaaca gcatagcaag tttaaataag
+    11941 gctagtccgt tatcaacttg aaaaagtggc accgagtcgg tgcttttttt gcccataact
+    12001 tcgtatagta taaattattg cttcggtaaa gccttgtttg gggggacaag tggttctcag
+    12061 gtttaagagc tatgctggaa acagcatagc aagtttaaat aaggctagtc cgttatcaac
+    12121 ttgaaaaagt ggcaccgagt cggtgctttt tttatccata acttcgtata gtataaatta
+    12181 ttgcttcggt aaagccttgt ttgtgagaaa gaaaagcact ctggtttaag agctatgctg
+    12241 gaaacagcat agcaagttta aataaggcta gtccgttatc aacttgaaaa agtggcaccg
+    12301 agtcggtgct ttttttggta ataacttcgt atagtataaa ttattgcttc ggtaaagcct
+    12361 tgtttgctgc acggtcaagt acacaggttt aagagctatg ctggaaacag catagcaagt
+    12421 ttaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt gcttttttta
+    12481 cggataactt cgtatagtat aaattattgc ttcggtaaag ccttgtttgc tagtgaaaat
+    12541 gatctcccgg tttaagagct atgctggaaa cagcatagca agtttaaata aggctagtcc
+    12601 gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt ttagtcataa cttcgtatag
+    12661 tataaattat tgcttcggta aagccttgtt tggcggctac gagtgtcctg tggtttaaga
+    12721 gctatgctgg aaacagcata gcaagtttaa ataaggctag tccgttatca acttgaaaaa
+    12781 gtggcaccga gtcggtgctt tttttacaca taacttcgta tagtataaat tattgcttcg
+    12841 gtaaagcctt gtttgaatcc ctatgagatg atccggttta agagctatgc tggaaacagc
+    12901 atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac cgagtcggtg
+    12961 ctttttttct gcataacttc gtatagtata aattattgct tcggtaaagc cttgtttgcg
+    13021 acgtggggtg taactccggt ttaagagcta tgctggaaac agcatagcaa gtttaaataa
+    13081 ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt taacgataac
+    13141 ttcgtatagt ataaattatt gcttcggtaa agccttgttt gtggtggact tctctgctac
+    13201 ggtttaagag ctatgctgga aacagcatag caagtttaaa taaggctagt ccgttatcaa
+    13261 cttgaaaaag tggcaccgag tcggtgcttt ttttcgccat aacttcgtat agtataaatt
+    13321 attgcttcgg taaagccttg tttggattcg atcgcccggt acgtgtttaa gagctatgct
+    13381 ggaaacagca tagcaagttt aaataaggct agtccgttat caacttgaaa aagtggcacc
+    13441 gagtcggtgc tttttttacc aataacttcg tatagtataa attattgctt cggtaaagcc
+    13501 ttgtttgagt gagtcgcgca ctcaatggtt taagagctat gctggaaaca gcatagcaag
+    13561 tttaaataag gctagtccgt tatcaacttg aaaaagtggc accgagtcgg tgcttttttt
+    13621 gcccataact tcgtatagta taaattattg cttcggtaaa gccttgtttg cctagccaca
+    13681 gtcacctgac gtttaagagc tatgctggaa acagcatagc aagtttaaat aaggctagtc
+    13741 cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttatccata acttcgtata
+    13801 gtataaatta ttgcttcggt aaagccttgt ttgtatgaaa accctcggaa cgtgtttaag
+    13861 agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc aacttgaaaa
+    13921 agtggcaccg agtcggtgct ttttttggta ataacttcgt atagtataaa ttattgcttc
+    13981 ggtaaagcct tgtttgtgag aacattcatc ggactggttt aagagctatg ctggaaacag
+    14041 catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt
+    14101 gcttttttta cggataactt cgtatagtat aaattattgc ttcggtaaag ccttgtttga
+    14161 ttaacatgta cttacccccg tttaagagct atgctggaaa cagcatagca agtttaaata
+    14221 aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt ttagtcataa
+    14281 cttcgtatag tataaattat tgcttcggta aagccttgtt tgtcagcctg cgaccttcca
+    14341 gtgtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag tccgttatca
+    14401 acttgaaaaa gtggcaccga gtcggtgctt tttttacaca taacttcgta tagtataaat
+    14461 tattgcttcg gtaaagcctt gtttgagcag ccggtaggta cacatgttta agagctatgc
+    14521 tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa aaagtggcac
+    14581 cgagtcggtg ctttttttct gcataacttc gtatagtata aattattgct tcggtaaagc
+    14641 cttgtttgct ctgtatctcg gtccaagggt ttaagagcta tgctggaaac agcatagcaa
+    14701 gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctttttt
+    14761 taacgataac ttcgtatagt ataaattatt gcttcggtaa agccttgttt gaaagtttgg
+    14821 ccgtatagat ggtttaagag ctatgctgga aacagcatag caagtttaaa taaggctagt
+    14881 ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt ttttcgccat aacttcgtat
+    14941 agtataaatt attgcttcgg taaagccttg tttggcaagt gatcgactcg cgaggtttaa
+    15001 gagctatgct ggaaacagca tagcaagttt aaataaggct agtccgttat caacttgaaa
+    15061 aagtggcacc gagtcggtgc tttttttgag tataacttcg tatagtataa attattgctt
+    15121 cggtaaagcc ttgtttgagg ccggccgtgg acccacggtt taagagctat gctggaaaca
+    15181 gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc accgagtcgg
+    15241 tgcttttttt gcccataact tcgtatagta taaattattg cttcggtaaa gccttgtttg
+    15301 atacaaacaa tagaagcctg gtttaagagc tatgctggaa acagcatagc aagtttaaat
+    15361 aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt tttatccata
+    15421 acttcgtata gtataaatta ttgcttcggt aaagccttgt ttgtctggta gaactaactc
+    15481 agagtttaag agctatgctg gaaacagcat agcaagttta aataaggcta gtccgttatc
+    15541 aacttgaaaa agtggcaccg agtcggtgct ttttttggta ataacttcgt atagtataaa
+    15601 ttattgcttc ggtaaagcct tgtttgcaac tcctcaaact ctctgggttt aagagctatg
+    15661 ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga aaaagtggca
+    15721 ccgagtcggt gcttttttta cggataactt cgtatagtat aaattattgc ttcggtaaag
+    15781 ccttgtttga gattccagtc agtggagagg tttaagagct atgctggaaa cagcatagca
+    15841 agtttaaata aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc ggtgcttttt
+    15901 ttagtcataa cttcgtatag tataaattat tgcttcggta aagccttgtt tgcaccaaga
+    15961 ctcggtcctc tggtttaaga gctatgctgg aaacagcata gcaagtttaa ataaggctag
+    16021 tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttacaca taacttcgta
+    16081 tagtataaat tattgcttcg gtaaagcctt gtttgcggcg agggctacac gtacggttta
+    16141 agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta tcaacttgaa
+    16201 aaagtggcac cgagtcggtg ctttttttct gcataacttc gtatagtata aattattgct
+    16261 tcggtaaagc cttgtttgga ttcacagacc acagaaccgt ttaagagcta tgctggaaac
+    16321 agcatagcaa gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg
+    16381 gtgctttttt taacgataac ttcgtatagt ataaattatt gcttcggtaa agccttgttt
+    16441 gccataaacg gctaagccag ggtttaagag ctatgctgga aacagcatag caagtttaaa
+    16501 taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt ttttcgccat
+    16561 aacttcgtat agtataaatt attgcttcgg taaagccttg tttggccgag agtgattcgc
+    16621 cggagtttaa gagctatgct ggaaacagca tagcaagttt aaataaggct agtccgttat
+    16681 caacttgaaa aagtggcacc gagtcggtgc tttttttcga aataacttcg tatagtataa
+    16741 attattgctt cggtaaagcc ttgtttgtga ttatgacacc cgaagtggtt taagagctat
+    16801 gctggaaaca gcatagcaag tttaaataag gctagtccgt tatcaacttg aaaaagtggc
+    16861 accgagtcgg tgcttttttt gcccataact tcgtatagta taaattattg cttcggtaaa
+    16921 gccttgtttg caggcaacat tagaagacag gtttaagagc tatgctggaa acagcatagc
+    16981 aagtttaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt
+    17041 tttatccata acttcgtata gtataaatta ttgcttcggt aaagccttgt ttgacgttgg
+    17101 gaaatatccg tgcgtttaag agctatgctg gaaacagcat agcaagttta aataaggcta
+    17161 gtccgttatc aacttgaaaa agtggcaccg agtcggtgct ttttttggta ataacttcgt
+    17221 atagtataaa ttattgcttc ggtaaagcct tgtttggcac tggatgagag gctcgggttt
+    17281 aagagctatg ctggaaacag catagcaagt ttaaataagg ctagtccgtt atcaacttga
+    17341 aaaagtggca ccgagtcggt gcttttttta cggataactt cgtatagtat aaattattgc
+    17401 ttcggtaaag ccttgtttgc aatatctaaa tccgcacgag tttaagagct atgctggaaa
+    17461 cagcatagca agtttaaata aggctagtcc gttatcaact tgaaaaagtg gcaccgagtc
+    17521 ggtgcttttt ttagtcataa cttcgtatag tataaattat tgcttcggta aagccttgtt
+    17581 tgaattcttc ttgatccaga cagtttaaga gctatgctgg aaacagcata gcaagtttaa
+    17641 ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgctt tttttacaca
+    17701 taacttcgta tagtataaat tattgcttcg gtaaagcctt gtttgacaga ggatgggcat
+    17761 cagaggttta agagctatgc tggaaacagc atagcaagtt taaataaggc tagtccgtta
+    17821 tcaacttgaa aaagtggcac cgagtcggtg ctttttttct gcataacttc gtatagtata
+    17881 aattattgct tcggtaaagc cttgtttgca gctgtttgcg actacagggt ttaagagcta
+    17941 tgctggaaac agcatagcaa gtttaaataa ggctagtccg ttatcaactt gaaaaagtgg
+    18001 caccgagtcg gtgctttttt tctgcataac ttcgtatagt ataaattatt gcttcggtaa
+    18061 agccttgttt gaccctgaca aaactctgtg agtttaagag ctatgctgga aacagcatag
+    18121 caagtttaaa taaggctagt ccgttatcaa cttgaaaaag tggcaccgag tcggtgcttt
+    18181 ttttctgcat aacttcgtat agtataaatt attgcttcgg taaagccttg tttggataag
+    18241 cgcgatgcca tgggtttaag agctatgctg gaaacagcat agcaagttta aataaggcta
+    18301 gtccgttatc aacttgaaaa agtggcaccg agtcggtgct ttttttcttc ctgtgtgaaa
+    18361 ttgttatccg ctcacaattc cacacaacat acgagccgga atgcataact tacggtaaat
+    18421 ggcccgcctg gctgaccgcc caacgacccc cgcccattga cgtcaataat gacgtatgtt
+    18481 cccatagtaa cgccaatagg gactttccat tgacgtcaat gggtggagta tttacggtaa
+    18541 actgcccact tggcagtaca tcaagtgtat catatgccaa gtacgccccc tattgacgtc
+    18601 aatgacggta aatggcccgc ctggcattat gcccagtaca tgaccttatg ggactttcct
+    18661 acttggcagt acatctacgt attagtcatc gctattacca tggtcgaggt gagccccacg
+    18721 ttctgcttca ctctccccat ctcccccccc tccccacccc caattttgta tttatttatt
+    18781 ttttaattat tttgtgcagc gatgggggcg gggggggggg gggggcgcgc gccaggcggg
+    18841 gcggggcggg gcgaggggcg gggcggggcg aggcggagag gtgcggcggc agccaatcag
+    18901 agcggcgcgc tccgaaagtt tccttttatg gcgaggcggc ggcggcggcg gccctataaa
+    18961 aagcgaagcg cgcggcgggc ggggagtcgc tgcgacgctg ccttcgcccc gtgccccgct
+    19021 ccgccgccgc ctcgcgccgc ccgccccggc tctgactgac cgcgttactc ccacaggtga
+    19081 gcgggcggga cggcccttct cctccgggct gtaattagcg cttggtttaa tgacggcttg
+    19141 tttcttttct gtggctgcgt gaaagccttg aggggctccg ggagggccct ttgtgcgggg
+    19201 ggagcggctc ggggggtgcg tgcgtgtgtg tgtgcgtggg gagcgccgcg tgcggctccg
+    19261 cgctgcccgg cggctgtgag cgctgcgggc gcggcgcggg gctttgtgcg ctccgcagtg
+    19321 tgcgcgaggg gagcgcggcc gggggcggtg ccccgcggtg cggggggggc tgcgagggga
+    19381 acaaaggctg cgtgcggggt gtgtgcgtgg gggggtgagc agggggtgtg ggcgcgtcgg
+    19441 tcgggctgca accccccctg cacccccctc cccgagttgc tgagcacggc ccggcttcgg
+    19501 gtgcggggct ccgtacgggg cgtggcgcgg ggctcgccgt gccgggcggg gggtggcggc
+    19561 aggtgggggt gccgggcggg gcggggccgc ctcgggccgg ggagggctcg ggggaggggc
+    19621 gcggcggccc ccggagcgcc ggcggctgtc gaggcgcggc gagccgcagc cattgccttt
+    19681 tatggtaatc gtgcgagagg gcgcagggac ttcctttgtc ccaaatctgt gcggagccga
+    19741 aatctgggag gcgccgccgc accccctcta gcgggcgcgg ggcgaagcgg tgcggcgccg
+    19801 gcaggaagga aatgggcggg gagggccttc gtgcgtcgcc gcgccgccgt ccccttctcc
+    19861 ctctccagcc tcggggctgt ccgcgggggg acggctgcct tcggggggga cggggcaggg
+    19921 cggggttcgg cttctggcgt gtgaccggcg gctctagagc ctctgctaac catgttcatg
+    19981 ccttcttctt tttcctacag ctcctgggca acgtgctggt tattgtgctg tctcatcatt
+    20041 ttggcaaaga attgggccac catgagcgag ctgattaagg agaacatgca catgaagctg
+    20101 tacatggagg gcaccgtgga caaccatcac ttcaagtgca catccgaggg cgaaggcaag
+    20161 ccctacgagg gcacccagac catgagaatc aaggtggtcg agggcggccc tctccccttc
+    20221 gccttcgaca tcctggctac tagcttcctc tacggcagca agaccttcat caaccacacc
+    20281 cagggcatcc ccgacttctt caagcagtcc ttccctgagg gcttcacatg ggagagagtc
+    20341 accacatacg aagacggggg cgtgctgacc gctacccagg acaccagcct ccaggacggc
+    20401 tgcctcatct acaacgtcaa gatcagaggg gtgaacttca catccaacgg ccctgtgatg
+    20461 cagaagaaaa cactcggctg ggaggccttc accgaaacgc tgtaccccgc tgacggcggc
+    20521 ctggaaggca gaaacgacat ggccctgaag ctcgtgggcg ggagccatct gatcgcaaac
+    20581 atcaagacca catatagatc caagaaaccc gctaagaacc tcaagatgcc tggcgtctac
+    20641 tatgtggact acagactgga aagaatcaag gaggccaaca acgagaccta cgtcgagcag
+    20701 cacgaggtgg cagtggccag atactgcgac ctccctagca aactggggca caagcttaat
+    20761 taacgatgat gatccagaca tgataagata cattgatgag tttggacaaa ccacaactag
+    20821 aatgcagtga aaaaaatgct ttatttgtga aatttgtgat gctattgctt tatttgtaac
+    20881 cattataagc tgcaataaac aagttaacaa caacaattgc attcatttta tgtttcaggt
+    20941 tcagggggag gtgtgggagg ttttttatac cgaatgcatc tagaggatcc tcgagcccgt
+    21001 cgaccgataa aagttttgtt actttataga agaaattttg agtttttgtt tttttttaat
+    21061 aaataaataa acataaataa attgtttgtt gaatttatta ttagtatgta agtgtaaata
+    21121 taataaaact taatatctat tcaaattaat aaataaacct cgatatacag accgataaaa
+    21181 cacatgcgtc aattttacgc atgattatct ttaacgtacg tcacaatatg attatctttc
+    21241 tagggttaaa ggccttcggt cgttcggctg cggcgagcgg tatcagctca ctcaaaggcg
+    21301 gtaatacggt tatccacaga atcaggggat aacgcaggaa agaacatgtg agcaaaaggc
+    21361 cagcaaaagg ccaggaaccg taaaaaggcc gcgttgctgg cgtttttcca taggctccgc
+    21421 ccccctgacg agcatcacaa aaatcgacgc tcaagtcaga ggtggcgaaa cccgacagga
+    21481 ctataaagat accaggcgtt tccccctgga agctccctcg tgcgctctcc tgttccgacc
+    21541 ctgccgctta ccggatacct gtccgccttt ctcccttcgg gaagcgtggc gctttctcat
+    21601 agctcacgct gtaggtatct cagttcggtg taggtcgttc gctccaagct gggctgtgtg
+    21661 cacgaacccc ccgttcagcc cgaccgctgc gccttatccg gtaactatcg tcttgagtcc
+    21721 aacccggtaa gacacgactt atcgccactg gcagcagcca ctggtaacag gattagcaga
+    21781 gcgaggtatg taggcggtgc tacagagttc ttgaagtggt ggcctaacta cggctacact
+    21841 agaagaacag tatttggtat ctgcgctctg ctgaagccag ttaccttcgg aaaaagagtt
+    21901 ggtagctctt gatccggcaa acaaaccacc gctggtagcg gtggtttttt tgtttgcaag
+    21961 cagcagatta cgcgcagaaa aaaaggatct caagaagatc ctttgatctt ttctacgggg
+    22021 tctgacgctc agtggaacga aaactcacgt taagggattt tggtcatgag attatcaaaa
+    22081 aggatcttca cctagatcct tttaaattaa aaatgaagtt tt
+//
